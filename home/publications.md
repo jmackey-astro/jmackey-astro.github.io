@@ -230,22 +230,22 @@ Refereed Publications
     [arXiv:2310.06181](https://arxiv.org/abs/2310.06181 "https://arxiv.org/abs/2310.06181"), 
     [ADS record](https://ui.adsabs.harvard.edu/abs/2023NatAs...7.1341H/abstract "https://ui.adsabs.harvard.edu/abs/2023NatAs...7.1341H/abstract"))
 35. *"EMU Detection of a Large and Low Surface Brightness Galactic SNR G288.8-6.3"*  
-    M.D. Filipovic, D. Shi, A Bojan, ..., J. Mackey, ..., 2023, The Astronomical Journal, **166**, 149.
+    M.D. Filipovic, D. Shi, A Bojan, ..., J. Mackey, ..., 2023, The Astronomical Journal, **166**, 149
     ([DOI:10.3847/1538-3881/acf19c](https://doi.org/10.3847/1538-3881/acf19c "https://doi.org/10.3847/1538-3881/acf19c"), 
     [arXiv:2308.08716](https://arxiv.org/abs/2308.08716 "https://arxiv.org/abs/2308.08716"), 
     [ADS record](https://ui.adsabs.harvard.edu/abs/2023AJ....166..149F/abstract "https://ui.adsabs.harvard.edu/abs/2023AJ....166..149F/abstract"))
 36. *"Multiwavelength Observations of the Blazar PKS 0735+178 in Spatial and Temporal Coincidence with an Astrophysical Neutrino Candidate IceCube-211208A"*  
-    H.E.S.S. Collaboration, 2023, The Astrophysical Journal, **954**, 70.
+    H.E.S.S. Collaboration, 2023, The Astrophysical Journal, **954**, 70
     ([DOI:10.3847/1538-4357/ace327](https://doi.org/10.3847/1538-4357/ace327 "https://doi.org/10.3847/1538-4357/ace327"), 
     [arXiv:2306.17819](https://arxiv.org/abs/2306.17819 "https://arxiv.org/abs/2306.17819"), 
     [ADS record](https://ui.adsabs.harvard.edu/abs/2023ApJ...954...70A/abstract "https://ui.adsabs.harvard.edu/abs/2023ApJ...954...70A/abstract"))
 37. *"The Vanishing of the Primary Emission Region in PKS 1510-089"*  
-    H.E.S.S. Collaboration, 2023, Astrophysical Journal Letters, **952**, L38.
+    H.E.S.S. Collaboration, 2023, Astrophysical Journal Letters, **952**, L38
     ([DOI:10.3847/2041-8213/ace3c0](https://doi.org/10.3847/2041-8213/ace3c0 "https://doi.org/10.3847/2041-8213/ace3c0"), 
     [arXiv:2307.01692](https://arxiv.org/abs/2307.01692 "https://arxiv.org/abs/2307.01692"), 
     [ADS record](https://ui.adsabs.harvard.edu/abs/2023ApJ...952L..38A/abstract "https://ui.adsabs.harvard.edu/abs/2023ApJ...952L..38A/abstract"))
 38. *"Sensitivity of the Cherenkov Telescope Array to spectral signatures of hadronic PeVatrons with application to Galactic Supernova Remnants"*  
-    **CTA Consortium**, 2023, Astroparticle Physics, **150**, 102850.
+    **CTA Consortium**, 2023, Astroparticle Physics, **150**, 102850
     ([DOI:10.1016/j.astropartphys.2023.102850](https://doi.org/10.1016/j.astropartphys.2023.102850 "https://doi.org/10.1016/j.astropartphys.2023.102850"), 
     [arXiv:2303.15007](https://arxiv.org/abs/2303.15007 "https://arxiv.org/abs/2303.15007"), 
     [ADS record](https://ui.adsabs.harvard.edu/abs/2023APh...15002850A/abstract "https://ui.adsabs.harvard.edu/abs/2023APh...15002850A/abstract"))
