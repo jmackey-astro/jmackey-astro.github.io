@@ -14,536 +14,572 @@ Jonathan Mackey > Publications
 Refereed Publications
 ---------------------
 
+
+<!--
+   ([DOI:](https://doi.org/ "https://doi.org/"),
+    [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
+    [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
+-->
+
+1. *"Interacting supernovae and where to find them,"*
+   R. Brose, I. Sushch, J. Mackey, M. Arias
+   2025, Astronomy & Astrophysics, **in press**
+   ([DOI:10.1051/0004-6361/202555671](https://doi.org/10.1051/0004-6361/202555671 "https://doi.org/10.1051/0004-6361/202555671"),
+    [arXiv:2510.19446](https://arxiv.org/abs/2510.19446 "https://arxiv.org/abs/2510.19446"), 
+    [ADS record](https://scixplorer.org/abs/2025arXiv251019446B/ "https://scixplorer.org/abs/2025arXiv251019446B/"))
+
+1. *"A targeted radio survey of infrared-selected bow shock candidates,"*
+    M. Moutzouri, J. Mackey, N. Castro, et al.
+    2025, Astronomy & Astrophysics, **in press**
+    ([DOI:10.1051/0004-6361/202557036](https://doi.org/10.1051/0004-6361/202557036 "https://doi.org/10.1051/0004-6361/202557036"),
+    [arXiv:2510.23470](https://arxiv.org/abs/2510.23470 "https://arxiv.org/abs/2510.23470"), 
+    [ADS record](https://scixplorer.org/abs/2025arXiv251023470M/ "https://scixplorer.org/abs/2025arXiv251023470M/"))
+
+1. *"Constraining the nature of the most extreme Galactic particle accelerator: H.E.S.S. observations of the microquasar V4641 Sgr,"*
+   H.E.S.S. Collaboration
+   2025, Astronomy & Astrophysics, **in press**
+   ([DOI:10.1051/0004-6361/202557532](https://doi.org/10.1051/0004-6361/202557532 "https://doi.org/10.1051/0004-6361/202557532"),
+    [arXiv:2511.10537](https://arxiv.org/abs/2511.10537 "https://arxiv.org/abs/2511.10537"), 
+    [ADS record](https://scixplorer.org/abs/2025arXiv251110537A/ "https://scixplorer.org/abs/2025arXiv251110537A/"))
+
+1. *"Prospects for dark matter observations in dwarf spheroidal galaxies with the Cherenkov Telescope Array Observatory,"*
+   CTAO Consortium
+   2025, Monthly Notices of the RAS, **544**, 2946
+   ([DOI:10.1093/mnras/staf1798](https://doi.org/10.1093/mnras/staf1798 "https://doi.org/10.1093/mnras/staf1798"),
+    [arXiv:2508.19120](https://arxiv.org/abs/2508.19120 "https://arxiv.org/abs/2508.19120"), 
+    [ADS record](https://scixplorer.org/abs/2025MNRAS.544.2946A/ "https://scixplorer.org/abs/2025MNRAS.544.2946A/"))
+
 1. *"Mass loading of outflows from evolving Young Massive Clusters,"*  
    C. J. K. Larkin, C. Hawcroft, J. Mackey, R. R. Lefever, L. Härer, A. A. C. Sander
-   2025, Astronomy & Astrophysics, **submitted**
-   ([arXiv:2510.06100](https://arxiv.org/abs/2510.06100 "https://arxiv.org/abs/2510.06100"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025arXiv251006100L/ "https://ui.adsabs.harvard.edu/abs/2025arXiv251006100L/"))
+   2025, Astronomy & Astrophysics, **703**, L14
+   ([DOI:10.1051/0004-6361/202557130](https://doi.org/10.1051/0004-6361/202557130 "https://doi.org/10.1051/0004-6361/202557130"),
+    [arXiv:2510.06100](https://arxiv.org/abs/2510.06100 "https://arxiv.org/abs/2510.06100"), 
+    [ADS record](https://scixplorer.org/abs/2025arXiv251006100L/ "https://scixplorer.org/abs/2025arXiv251006100L/"))
 
 2. *"Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS,"*  
    LAT, HAWC, H.E.S.S., MAGIC and VERITAS Collaborations,
    2025, Journal of Cosmology and Astroparticle Physics, accepted.  
    ([DOI:](https://doi.org/ "https://doi.org/"), 
    [arXiv:2508.20229](https://arxiv.org/abs/2508.20229 "https://arxiv.org/abs/2508.20229"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025arXiv250820229L/ "https://ui.adsabs.harvard.edu/abs/2025arXiv250820229L/"))
+   [ADS record](https://scixplorer.org/abs/2025arXiv250820229L/ "https://scixplorer.org/abs/2025arXiv250820229L/"))
 
 3. *"A high fraction of close massive binary stars at low metallicity,"*  
    H. Sana, T. Shenar, ..., J. Mackey, et al.,
-   2025, Nature Astronomy, **pub. online**.  
+   2025, Nature Astronomy, **9**, 1337  
    ([DOI:10.1038/s41550-025-02610-x](https://doi.org/10.1038/s41550-025-02610-x "https://doi.org/10.1038/s41550-025-02610-x"), 
-   [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/ "https://ui.adsabs.harvard.edu/abs/"))
+   [arXiv:2509.12488](https://arxiv.org/abs/2509.12488 "https://arxiv.org/abs/2509.12488"), 
+   [ADS record](https://scixplorer.org/abs/2025NatAs...9.1337S/ "https://scixplorer.org/abs/2025NatAs...9.1337S/"))
 
 4. *"Teleios (G305.4-2.2) - the mystery of a perfectly shaped new galactic supernova remnant,"*  
    M.D. Filipovic, Z.J. Smeaton, ..., J. Mackey, et al.,
    2025, Publications of the Astronomical Society of Australia}, **42**, e104.  
    ([DOI:10.1017/pasa.2025.10045](https://doi.org/10.1017/pasa.2025.10045 "https://doi.org/10.1017/pasa.2025.10045"), 
    [arXiv:2505.04041](https://arxiv.org/abs/2505.04041 "https://arxiv.org/abs/2505.04041"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025PASA...42..104F/abstract "https://ui.adsabs.harvard.edu/abs/2025PASA...42..104F/abstract"))
+   [ADS record](https://scixplorer.org/abs/2025PASA...42..104F/abstract "https://scixplorer.org/abs/2025PASA...42..104F/abstract"))
 
 5. *"EWOCS-IV: 1Ms ACIS Chandra observation of the supergiant B[e] star Wd1-9,"*  
    K. Anastasopoulou, M.G. Guarcello, ..., J. Mackey, et al.,
    2025, Astronomy & Astrophysics, **701**, A138.  
    ([DOI:10.1051/0004-6361/202555305](https://doi.org/10.1051/0004-6361/202555305 "https://doi.org/10.1051/0004-6361/202555305"), 
    [arXiv:2507.17816](https://arxiv.org/abs/2507.17816 "https://arxiv.org/abs/2507.17816"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025arXiv250717816A "https://ui.adsabs.harvard.edu/abs/2025arXiv250717816A"))
+   [ADS record](https://scixplorer.org/abs/2025arXiv250717816A "https://scixplorer.org/abs/2025arXiv250717816A"))
 
 6. *"Investigating dusty Red Supergiant outflows in Westerlund 1 with 3D Hydrodynamic simulations,"*  
    C.J.K. Larkin, J. Mackey, T.J. Haworth & A.A.C. Sander,
    2025, Astronomy & Astrophysics, **700**, A60.   
    ([DOI:10.1051/0004-6361/202554334](https://doi.org/10.1051/0004-6361/202554334 "https://doi.org/10.1051/0004-6361/202554334"), 
    [arXiv:2503.01272](https://arxiv.org/abs/2503.01272 "https://arxiv.org/abs/2503.01272"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A..60L/abstract "https://ui.adsabs.harvard.edu/abs/2025A%26A...700A..60L/abstract"))
+   [ADS record](https://scixplorer.org/abs/2025A%26A...700A..60L/abstract "https://scixplorer.org/abs/2025A%26A...700A..60L/abstract"))
 
 7. *"Bridging Machine Learning and Cosmological Simulations: Using Neural Operators to emulate Chemical Evolution,"*
    P. van de Bor, J. Brennan, J.A. Regan, J. Mackey, 2025, Open Journal of Astrophysics, **8**, 96.
    ([DOI:10.33232/001c.142225](https://doi.org/10.33232/001c.142225 "https://doi.org/10.33232/001c.142225"), 
    [arXiv:2503.10736](https://arxiv.org/abs/2503.10736 "https://arxiv.org/abs/2503.10736"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025OJAp....8E..96V/abstract "https://ui.adsabs.harvard.edu/abs/2025OJAp....8E..96V/abstract"))
+   [ADS record](https://scixplorer.org/abs/2025OJAp....8E..96V/abstract "https://scixplorer.org/abs/2025OJAp....8E..96V/abstract"))
 
 8. *"H.E.S.S. programme searching for VHE gamma rays associated with FRBs,"*  
    H.E.S.S. Collaboration,
    2025, Journal of Cosmology and Astroparticle Physics, **07**, 086.  
    ([DOI:10.1088/1475-7516/2025/07/086](https://doi.org/10.1088/1475-7516/2025/07/086 "https://doi.org/10.1088/1475-7516/2025/07/086"), 
    [arXiv:2507.02143](https://arxiv.org/abs/2507.02143 "https://arxiv.org/abs/2507.02143"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..086A/ "https://ui.adsabs.harvard.edu/abs/2025JCAP...07..086A/"))
+   [ADS record](https://scixplorer.org/abs/2025JCAP...07..086A/ "https://scixplorer.org/abs/2025JCAP...07..086A/"))
 
 9. *"Carbon-rich Dust Injected into the Interstellar Medium by Galactic WC Binaries Survives for Hundreds of Years,"*
    N. Richardson, M. Henson, ..., J. Mackey, et al.,
    2025, The Astrophysical Journal, **987**, 160.  
    ([DOI:10.3847/1538-4357/addf30](https://doi.org/10.3847/1538-4357/addf30 "https://doi.org/10.3847/1538-4357/addf30"), 
    [arXiv:2505.11616](https://arxiv.org/abs/2505.11616 "https://arxiv.org/abs/2505.11616"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..160R/abstract "https://ui.adsabs.harvard.edu/abs/2025ApJ...987..160R/abstract"))
+   [ADS record](https://scixplorer.org/abs/2025ApJ...987..160R/abstract "https://scixplorer.org/abs/2025ApJ...987..160R/abstract"))
 
 10. *"How to turn a Supernova into a PeVatron,"*  
     R. Brose, I. Sushch, J. Mackey, 2025, Astronomy & Astrophysics, **699**, A160.
     ([DOI:10.1051/0004-6361/202453334](https://doi.org/10.1051/0004-6361/202453334 "https://doi.org/10.1051/0004-6361/202453334"), 
     [arXiv:2504.20601](https://arxiv.org/abs/2504.20601 "https://arxiv.org/abs/2504.20601"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.160B/abstract "https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.160B/abstract"))
+    [ADS record](https://scixplorer.org/abs/2025A%26A...699A.160B/abstract "https://scixplorer.org/abs/2025A%26A...699A.160B/abstract"))
 
 11. *"Galactic transient sources with the Cherenkov Telescope Array Observatory,"*  
     CTA Consortrium, 2025, Monthly Notices of the RAS, **540**, 205.
     ([DOI:10.1093/mnras/staf655](https://doi.org/10.1093/mnras/staf655 "https://doi.org/10.1093/mnras/staf655"), 
     [arXiv:2405.04469](https://arxiv.org/abs/2405.04469 "https://arxiv.org/abs/2405.04469"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..205A/abstract "https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..205A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2025MNRAS.540..205A/abstract "https://scixplorer.org/abs/2025MNRAS.540..205A/abstract"))
 
 12. *"Thermal emission from bow shocks III: Variable diffuse X-ray emission from stellar-wind bow shocks driven by dynamical instabilities,"*  
     J. Mackey, A. Mathew, A.A. Ali, et al., 2025, Astronomy & Astrophysics, **696**, A91.
     ([DOI:10.1051/0004-6361/202553722](https://doi.org/10.1051/0004-6361/202553722 "https://doi.org/10.1051/0004-6361/202553722"), 
     [arXiv:2501.06021](https://arxiv.org/abs/2501.06021 "https://arxiv.org/abs/2501.06021"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2025A%26A...696A..91M/abstract "https://ui.adsabs.harvard.edu/abs/2025A%26A...696A..91M/abstract"))
+    [ADS record](https://scixplorer.org/abs/2025A%26A...696A..91M/abstract "https://scixplorer.org/abs/2025A%26A...696A..91M/abstract"))
 
 13. *"The H.E.S.S. extragalactic sky survey with the first decade of observations,"*  
     H.E.S.S. Collaboration, 2025, Astronomy & Astrophysics, **695**, A261.
     ([DOI:10.1051/0004-6361/202452723](https://doi.org/10.1051/0004-6361/202452723 "https://doi.org/10.1051/0004-6361/202452723"), 
     [arXiv:2504.21221](https://arxiv.org/abs/2504.21221 "https://arxiv.org/abs/2504.21221"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.261H/abstract "https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.261H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2025A%26A...695A.261H/abstract "https://scixplorer.org/abs/2025A%26A...695A.261H/abstract"))
 
 14. *"A multi-ion non-equilibrium solver for ionised astrophysical plasmas with arbitrary elemental abundances,"*  
     A. Mathew, J. Mackey, M. Celeste, et al., 2025, Astronomy & Astrophysics, **695**, A73.
     ([DOI:10.1051/0004-6361/202452373](https://doi.org/10.1051/0004-6361/202452373 "https://doi.org/10.1051/0004-6361/202452373"), 
     [arXiv:2409.18904](https://arxiv.org/abs/2409.18904 "https://arxiv.org/abs/2409.18904"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A..73M/abstract "https://ui.adsabs.harvard.edu/abs/2025A%26A...695A..73M/abstract"))
+    [ADS record](https://scixplorer.org/abs/2025A%26A...695A..73M/abstract "https://scixplorer.org/abs/2025A%26A...695A..73M/abstract"))
 
 15. *"Detection of very high-energy gamma-ray emission from Eta Carinae during its 2020 periastron passage,"*  
     H.E.S.S. Collaboration, 2025, Astronomy & Astrophysics, **694**, A328.
     ([DOI:10.1051/0004-6361/202453052](https://doi.org/10.1051/0004-6361/202453052 "https://doi.org/10.1051/0004-6361/202453052"), 
     [arXiv:2501.12238](https://arxiv.org/abs/2501.12238 "https://arxiv.org/abs/2501.12238"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2025A%26A...694A.328H/abstract "https://ui.adsabs.harvard.edu/abs/2025A%26A...694A.328H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2025A%26A...694A.328H/abstract "https://scixplorer.org/abs/2025A%26A...694A.328H/abstract"))
 
 16. *"Diprotodon on the sky. The Large Galactic Supernova Remnant (SNR) G278.94+1.35,"*  
     M.D. Filipovic, S. Lazarevic, M. Araya, ... ,J. Mackey, et al.,
     2024, Publications of the Astronomical Society of Australia, **41**, e112.  
     ([DOI:10.1017/pasa.2024.93](https://doi.org/10.1017/pasa.2024.93 "https://doi.org/10.1017/pasa.2024.93"), 
     [arXiv:2412.20836](https://arxiv.org/abs/2412.20836 "https://arxiv.org/abs/2412.20836"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024PASA...41..112F/abstract "https://ui.adsabs.harvard.edu/abs/2024PASA...41..112F/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024PASA...41..112F/abstract "https://scixplorer.org/abs/2024PASA...41..112F/abstract"))
 
 17. *"Visual Orbits of Wolf–Rayet Stars. II. The Orbit of the Nitrogen-rich Wolf–Rayet Binary WR 138 Measured with the CHARA Array,"*  
     A. Holdsworth, N. Richardson, G.H. Schaefer, ... ,J. Mackey, et al.,   
     2024, The Astrophysical Journal, **977**, 185.  
     ([DOI:10.3847/1538-4357/ad9024](https://doi.org/10.3847/1538-4357/ad9024 "https://doi.org/10.3847/1538-4357/ad9024"), 
     [arXiv:2411.01062](https://arxiv.org/abs/2411.01062 "https://arxiv.org/abs/2411.01062"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..185H/abstract "https://ui.adsabs.harvard.edu/abs/2024ApJ...977..185H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024ApJ...977..185H/abstract "https://scixplorer.org/abs/2024ApJ...977..185H/abstract"))
 
 18. *"Broadband multi-wavelength properties of M87 during the 2018 EHT campaign including a very high energy flaring episode,"*  
     H.E.S.S. Collaboration, 2024, Astronomy & Astrophysics, **692**, A140.
     ([DOI:10.1051/0004-6361/202450497](https://doi.org/10.1051/0004-6361/202450497 "https://doi.org/10.1051/0004-6361/202450497"), 
     [arXiv:2404.17623](https://arxiv.org/abs/2404.17623 "https://arxiv.org/abs/2404.17623"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.140A/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.140A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...692A.140A/abstract "https://scixplorer.org/abs/2024A%26A...692A.140A/abstract"))
 
 19. *"High-Statistics Measurement of the Cosmic-Ray Electron Spectrum with H.E.S.S.,"*  
     H.E.S.S. Collaboration, 2024, Physical Review Letters, **133**, 221001.
     ([DOI:10.1103/PhysRevLett.133.221001](https://doi.org/10.1103/PhysRevLett.133.221001 "https://doi.org/10.1103/PhysRevLett.133.221001"), 
     [arXiv:2411.08189](https://arxiv.org/abs/2411.08189 "https://arxiv.org/abs/2411.08189"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024PhRvL.133v1001A/abstract "https://ui.adsabs.harvard.edu/abs/2024PhRvL.133v1001A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024PhRvL.133v1001A/abstract "https://scixplorer.org/abs/2024PhRvL.133v1001A/abstract"))
 
 20. *"Prospects for a survey of the galactic plane with the Cherenkov Telescope Array"*  
     CTA Consortium, 2024, Journal of Cosmology and Astroparticle Physics, **2024**, 081.
     ([DOI:10.1088/1475-7516/2024/10/004](https://doi.org/10.1088/1475-7516/2024/10/004 "https://doi.org/10.1088/1475-7516/2024/10/004"), 
     [arXiv:2310.02828](https://arxiv.org/abs/2310.02828 "https://arxiv.org/abs/2310.02828"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024JCAP...10..081A/abstract "https://ui.adsabs.harvard.edu/abs/2024JCAP...10..081A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024JCAP...10..081A/abstract "https://scixplorer.org/abs/2024JCAP...10..081A/abstract"))
 
 21. *"Prospects for gamma-ray observations of the Perseus galaxy cluster with the Cherenkov Telescope Array"*  
     CTA Consortium, 2024, Journal of Cosmology and Astroparticle Physics, **2024**, 004.
     ([DOI:10.1088/1475-7516/2024/10/004](https://doi.org/10.1088/1475-7516/2024/10/004 "https://doi.org/10.1088/1475-7516/2024/10/004"), 
     [arXiv:2309.03712](https://arxiv.org/abs/2309.03712 "https://arxiv.org/abs/2309.03712"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024JCAP...10..081A/abstract "https://ui.adsabs.harvard.edu/abs/2024JCAP...10..081A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024JCAP...10..081A/abstract "https://scixplorer.org/abs/2024JCAP...10..081A/abstract"))
 
 22. *"Binarity at LOw Metallicity (BLOeM): I. a spectroscopic VLT monitoring survey of massive stars in the SMC,"*  
     T. Shenar, J. Bodensteiner, H. Sana, ..., J. Mackey, et al.,
     2024, *Astronomy & Astrophysics*, **690**, A289.  
     ([DOI:10.1051/0004-6361/202451586](https://doi.org/10.1051/0004-6361/202451586 "https://doi.org/10.1051/0004-6361/202451586"), 
     [arXiv:2407.14593](https://arxiv.org/abs/2407.14593 "https://arxiv.org/abs/2407.14593"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.289S/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.289S/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...690A.289S/abstract "https://scixplorer.org/abs/2024A%26A...690A.289S/abstract"))
 
 23. *"Connecting stellar and galactic scales: Energetic feedback from stellar wind bubbles to supernova remnants,"*  
     Y.A. Fichtner, J. Mackey, L. Grassitelli, et al.,
     2024, *Astronomy & Astrophysics*, **690**, A72.  
     ([DOI:10.1051/0004-6361/202449638](https://doi.org/10.1051/0004-6361/202449638 "https://doi.org/10.1051/0004-6361/202449638"), 
     [arXiv:2402.11008](https://arxiv.org/abs/2402.11008 "https://arxiv.org/abs/2402.11008"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A..72F/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...690A..72F/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...690A..72F/abstract "https://scixplorer.org/abs/2024A%26A...690A..72F/abstract"))
 
 24. *"MeerKAT reveals a ghostly thermal radio ring towards the Galactic Centre,"*  
     C. Bordiu, M.D. Filipovic, G. Umana, ..., J. Mackey, et al.,
     2024, *Astronomy & Astrophysics*, **690**, A53.  
     ([DOI:10.1051/0004-6361/202450766](https://doi.org/10.1051/0004-6361/202450766 "https://doi.org/10.1051/0004-6361/202450766"), 
     [arXiv:2408.07727](https://arxiv.org/abs/2408.07727 "https://arxiv.org/abs/2408.07727"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A..53B/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...690A..53B/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...690A..53B/abstract "https://scixplorer.org/abs/2024A%26A...690A..53B/abstract"))
     
 25. *"Very-high-energy Gamma-Ray Emission from Young Massive Star Clusters in the Large Magellanic Cloud,"*  
     H.E.S.S. Collaboration,
     2024, *Astrophysical Journal Letters*, **970**, L21.  
     ([DOI:10.3847/2041-8213/ad5e67](https://doi.org/10.3847/2041-8213/ad5e67 "https://doi.org/10.3847/2041-8213/ad5e67"), 
     [arXiv:2407.16219](https://arxiv.org/abs/2407.16219 "https://arxiv.org/abs/2407.16219"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..21A/abstract "https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..21A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024ApJ...970L..21A/abstract "https://scixplorer.org/abs/2024ApJ...970L..21A/abstract"))
 26. *"H.E.S.S. observations of the 2021 periastron passage of PSR B1259-63/LS 2883,"*  
     H.E.S.S. Collaboration,
     2024, *Astronomy & Astrophysics*, **687**, A219.  
     ([DOI:10.1051/0004-6361/202449612](https://doi.org/10.1051/0004-6361/202449612 "https://doi.org/10.1051/0004-6361/202449612"), 
     [arXiv:2406.18167](https://arxiv.org/abs/2406.18167 "https://arxiv.org/abs/2406.18167"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.219H/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.219H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...687A.219H/abstract "https://scixplorer.org/abs/2024A%26A...687A.219H/abstract"))
 27. *"Spectrum and extension of the inverse-Compton emission of the Crab Nebula from a combined Fermi-LAT and H.E.S.S. analysis,"*  
     H.E.S.S. Collaboration,
     2024, *Astronomy & Astrophysics*, **686**, A308.  
     ([DOI:10.1051/0004-6361/202348651](https://doi.org/10.1051/0004-6361/202348651 "https://doi.org/10.1051/0004-6361/202348651"), 
     [arXiv:2403.12608](https://arxiv.org/abs/2403.12608 "https://arxiv.org/abs/2403.12608"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.308A/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.308A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...686A.308A/abstract "https://scixplorer.org/abs/2024A%26A...686A.308A/abstract"))
 28. *"Unveiling extended gamma-ray emission around HESS J1813-178,"*  
     H.E.S.S. Collaboration,
     2024, *Astronomy & Astrophysics*, **686**, A149.  
     ([DOI:10.1051/0004-6361/202348374](https://doi.org/10.1051/0004-6361/202348374 "https://doi.org/10.1051/0004-6361/202348374"), 
     [arXiv:2403.16802](https://arxiv.org/abs/2403.16802 "https://arxiv.org/abs/2403.16802"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.149H/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.149H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...686A.149H/abstract "https://scixplorer.org/abs/2024A%26A...686A.149H/abstract"))
 29. *"Curvature in the very-high energy gamma-ray spectrum of M87,"*  
     H.E.S.S. Collaboration,
     2024, *Astronomy & Astrophysics*, **685**, A96.  
     ([DOI:10.1051/0004-6361/202348913](https://doi.org/10.1051/0004-6361/202348913 "https://doi.org/10.1051/0004-6361/202348913"), 
     [arXiv:2402.13330](https://arxiv.org/abs/2402.13330 "https://arxiv.org/abs/2402.13330"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...685A..96H/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...685A..96H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...685A..96H/abstract "https://scixplorer.org/abs/2024A%26A...685A..96H/abstract"))
 30. *"Gamma-ray detection of newly discovered Ancora SNR: G288.8-6.3,"*  
     C. Burger-Scheidlin, R. Brose, J. Mackey, M.D. Filipović, P. Goswami, E. Mestre Guillen, E. de Oña Wilhelmi, I. Sushch,
     2024, *Astronomy & Astrophysics*, **684**, A150.  
     ([DOI:10.1051/0004-6361/202348348](https://doi.org/10.1051/0004-6361/202348348 "https://doi.org/10.1051/0004-6361/202348348"), 
     [arXiv:2310.14431](https://arxiv.org/abs/2310.14431 "https://arxiv.org/abs/2310.14431"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A.150B/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...684A.150B/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...684A.150B/abstract "https://scixplorer.org/abs/2024A%26A...684A.150B/abstract"))
 31. *"TeV flaring activity of the AGN PKS 0625-354 in November 2018,"*  
     H.E.S.S. Collaboration,
     2024, *Astronomy & Astrophysics*, **683**, A70.  
     ([DOI:10.1051/0004-6361/202348063](https://doi.org/10.1051/0004-6361/202348063 "https://doi.org/10.1051/0004-6361/202348063"), 
     [arXiv:2401.07071](https://arxiv.org/abs/2401.07071 "https://arxiv.org/abs/2401.07071"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024A%26A...683A..70H/abstract "https://ui.adsabs.harvard.edu/abs/2024A%26A...683A..70H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024A%26A...683A..70H/abstract "https://scixplorer.org/abs/2024A%26A...683A..70H/abstract"))
 32. *"Acceleration and transport of relativistic electrons in the jets of the microquasar SS 433,"*  
     H.E.S.S. Collaboration,
     2024, *Science*, **383**, 402.  
     ([DOI:10.1126/science.adi2048](https://doi.org/10.1126/science.adi2048 "https://doi.org/10.1126/science.adi2048"), 
     [arXiv:2401.16019](https://arxiv.org/abs/2401.16019 "https://arxiv.org/abs/2401.16019"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2024Sci...383..402H/abstract "https://ui.adsabs.harvard.edu/abs/2024Sci...383..402H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2024Sci...383..402H/abstract "https://scixplorer.org/abs/2024Sci...383..402H/abstract"))
 33. *"Inverse Compton cooling of thermal plasma in colliding-wind binaries,"*  
     J. Mackey, T.A.K. Jones, R. Brose, L. Grassitelli, B. Reville, A. Mathew,
     2023, Monthly Notices of the RAS, **526**, 3099  
     ([DOI:10.1093/mnras/stad2839](https://doi.org/10.1093/mnras/stad2839 "https://doi.org/10.1093/mnras/stad2839"), 
     [arXiv:2301.13716](https://arxiv.org/abs/2301.13716 "https://arxiv.org/abs/2301.13716"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.3099M/abstract "https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.3099M/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023MNRAS.526.3099M/abstract "https://scixplorer.org/abs/2023MNRAS.526.3099M/abstract"))
 34. *"Discovery of a radiation component from the Vela pulsar reaching 20 teraelectronvolts,"*  
     H.E.S.S. Collaboration, 2023, *Nature Astronomy*, **7**, 1341  
     ([DOI:10.1038/s41550-023-02052-3](https://doi.org/10.1038/s41550-023-02052-3 "https://doi.org/10.1038/s41550-023-02052-3"), 
     [arXiv:2310.06181](https://arxiv.org/abs/2310.06181 "https://arxiv.org/abs/2310.06181"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023NatAs...7.1341H/abstract "https://ui.adsabs.harvard.edu/abs/2023NatAs...7.1341H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023NatAs...7.1341H/abstract "https://scixplorer.org/abs/2023NatAs...7.1341H/abstract"))
 35. *"EMU Detection of a Large and Low Surface Brightness Galactic SNR G288.8-6.3"*  
     M.D. Filipovic, D. Shi, A Bojan, ..., J. Mackey, ..., 2023, The Astronomical Journal, **166**, 149
     ([DOI:10.3847/1538-3881/acf19c](https://doi.org/10.3847/1538-3881/acf19c "https://doi.org/10.3847/1538-3881/acf19c"), 
     [arXiv:2308.08716](https://arxiv.org/abs/2308.08716 "https://arxiv.org/abs/2308.08716"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023AJ....166..149F/abstract "https://ui.adsabs.harvard.edu/abs/2023AJ....166..149F/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023AJ....166..149F/abstract "https://scixplorer.org/abs/2023AJ....166..149F/abstract"))
 36. *"Multiwavelength Observations of the Blazar PKS 0735+178 in Spatial and Temporal Coincidence with an Astrophysical Neutrino Candidate IceCube-211208A"*  
     H.E.S.S. Collaboration, 2023, The Astrophysical Journal, **954**, 70
     ([DOI:10.3847/1538-4357/ace327](https://doi.org/10.3847/1538-4357/ace327 "https://doi.org/10.3847/1538-4357/ace327"), 
     [arXiv:2306.17819](https://arxiv.org/abs/2306.17819 "https://arxiv.org/abs/2306.17819"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023ApJ...954...70A/abstract "https://ui.adsabs.harvard.edu/abs/2023ApJ...954...70A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023ApJ...954...70A/abstract "https://scixplorer.org/abs/2023ApJ...954...70A/abstract"))
 37. *"The Vanishing of the Primary Emission Region in PKS 1510-089"*  
     H.E.S.S. Collaboration, 2023, Astrophysical Journal Letters, **952**, L38
     ([DOI:10.3847/2041-8213/ace3c0](https://doi.org/10.3847/2041-8213/ace3c0 "https://doi.org/10.3847/2041-8213/ace3c0"), 
     [arXiv:2307.01692](https://arxiv.org/abs/2307.01692 "https://arxiv.org/abs/2307.01692"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023ApJ...952L..38A/abstract "https://ui.adsabs.harvard.edu/abs/2023ApJ...952L..38A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023ApJ...952L..38A/abstract "https://scixplorer.org/abs/2023ApJ...952L..38A/abstract"))
 38. *"Sensitivity of the Cherenkov Telescope Array to spectral signatures of hadronic PeVatrons with application to Galactic Supernova Remnants"*  
     **CTA Consortium**, 2023, Astroparticle Physics, **150**, 102850
     ([DOI:10.1016/j.astropartphys.2023.102850](https://doi.org/10.1016/j.astropartphys.2023.102850 "https://doi.org/10.1016/j.astropartphys.2023.102850"), 
     [arXiv:2303.15007](https://arxiv.org/abs/2303.15007 "https://arxiv.org/abs/2303.15007"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023APh...15002850A/abstract "https://ui.adsabs.harvard.edu/abs/2023APh...15002850A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023APh...15002850A/abstract "https://scixplorer.org/abs/2023APh...15002850A/abstract"))
 39. *"Tree-based solvers for adaptive mesh refinement code FLASH -- IV: An X-ray radiation scheme to couple discrete and diffuse X-ray emission sources to the thermochemistry of the interstellar medium,"*  
     B.A.L. Gaches, S. Walch, R. Wünsch,J. Mackey,
     2023, Monthly Notices of the RAS, **522**, 4674  
     ([DOI:10.1093/mnras/stad1206](https://doi.org/10.1093/mnras/stad1206 "https://doi.org/10.1093/mnras/stad1206"), 
     [arXiv:2301.13237](https://arxiv.org/abs/2301.13237 "https://arxiv.org/abs/2301.13237"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4674G/abstract "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4674G/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023MNRAS.522.4674G/abstract "https://scixplorer.org/abs/2023MNRAS.522.4674G/abstract"))
 40. *"Constraining the cosmic-ray pressure in the inner Virgo Cluster using H.E.S.S. observations of M 87"*  
     H.E.S.S. Collaboration, 2023, Astronomy & Astrophysics, **675**, A138.
     ([DOI:10.1051/0004-6361/202346056](https://doi.org/10.1051/0004-6361/202346056 "https://doi.org/10.1051/0004-6361/202346056"), 
     [arXiv:2305.09607](https://arxiv.org/abs/2305.09607 "https://arxiv.org/abs/2305.09607"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.138H/abstract "https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.138H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023A%26A...675A.138H/abstract "https://scixplorer.org/abs/2023A%26A...675A.138H/abstract"))
 41. *"Constraints on the Intergalactic Magnetic Field Using Fermi-LAT and H.E.S.S. Blazar Observations"*  
     H.E.S.S. Collaboration, 2023, Astrophysical Journal Letters, **950**, L16.
     ([DOI:10.3847/2041-8213/acd777](https://doi.org/10.3847/2041-8213/acd777 "https://doi.org/10.3847/2041-8213/acd777"), 
     [arXiv:2306.05132](https://arxiv.org/abs/2306.05132 "https://arxiv.org/abs/2306.05132"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023ApJ...950L..16A/abstract "https://ui.adsabs.harvard.edu/abs/2023ApJ...950L..16A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023ApJ...950L..16A/abstract "https://scixplorer.org/abs/2023ApJ...950L..16A/abstract"))
 42. *"Detection of extended gamma-ray emission around the Geminga pulsar with H.E.S.S."*  
     H.E.S.S. Collaboration, 2023, Astronomy & Astrophysics, **673**, A148.
     ([DOI:10.1051/0004-6361/202245776](https://doi.org/10.1051/0004-6361/202245776 "https://doi.org/10.1051/0004-6361/202245776"), 
     [arXiv:2304.02631](https://arxiv.org/abs/2304.02631 "https://arxiv.org/abs/2304.02631"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.148H/abstract "https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.148H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023A%26A...673A.148H/abstract "https://scixplorer.org/abs/2023A%26A...673A.148H/abstract"))
 43. *"Search for the evaporation of primordial black holes with H.E.S.S."*  
     H.E.S.S. Collaboration, 2023, Journal of Cosmology and Astroparticle Physics, **04**, 040.
     ([DOI:10.1088/1475-7516/2023/04/040](https://doi.org/10.1088/1475-7516/2023/04/040 "https://doi.org/10.1088/1475-7516/2023/04/040"), 
     [arXiv:2303.12855](https://arxiv.org/abs/2303.12855 "https://arxiv.org/abs/2303.12855"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023JCAP...04..040A/abstract "https://ui.adsabs.harvard.edu/abs/2023JCAP...04..040A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023JCAP...04..040A/abstract "https://scixplorer.org/abs/2023JCAP...04..040A/abstract"))
 44. *"HESS J1809-193: a halo of escaped electrons around a pulsar wind nebula?"*  
     H.E.S.S. Collaboration, 2023, Astronomy & Astrophysics, **672**, A103.
     ([DOI:10.1051/0004-6361/202245459](https://doi.org/10.1051/0004-6361/202245459 "https://doi.org/10.1051/0004-6361/202245459"), 
     [arXiv:2302.13663](https://arxiv.org/abs/2302.13663 "https://arxiv.org/abs/2302.13663"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023A%26A...672A.103H/abstract "https://ui.adsabs.harvard.edu/abs/2023A%26A...672A.103H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023A%26A...672A.103H/abstract "https://scixplorer.org/abs/2023A%26A...672A.103H/abstract"))
 45. *"H.E.S.S. follow-up observations of GRB 221009A"*  
     H.E.S.S. Collaboration, 2023, Astrophysical Journal Letters, **946**, L27.
     ([DOI:10.3847/2041-8213/acc405](https://doi.org/10.3847/2041-8213/acc405 "https://doi.org/10.3847/2041-8213/acc405"), 
     [arXiv:2303.10558](https://arxiv.org/abs/2303.10558 "https://arxiv.org/abs/2303.10558"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L..27A/abstract "https://ui.adsabs.harvard.edu/abs/2023ApJ...946L..27A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023ApJ...946L..27A/abstract "https://scixplorer.org/abs/2023ApJ...946L..27A/abstract"))
 46. *"Molecular gas properties in young stellar clusters with a suppressed star cluster wind,"*  
     S. Silich, J. Turner, J. Mackey, S. Martinez-Gonzalez,
     2023, Astrophysical Journal Letters, **944**, L32.  
     ([DOI:10.3847/2041-8213/acb687](https://doi.org/10.3847/2041-8213/acb687 "https://doi.org/10.3847/2041-8213/acb687"), 
     [arXiv:2301.12300](https://arxiv.org/abs/2301.12300 "https://arxiv.org/abs/2301.12300"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..32S/abstract "https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..32S/abstract"))
+    [ADS record](https://scixplorer.org/abs/2023ApJ...944L..32S/abstract "https://scixplorer.org/abs/2023ApJ...944L..32S/abstract"))
 47. *"Gamma-ray observations of MAXI J1820+070 during the 2018 outburst,"*  
     H.E.S.S. Collaboration, 2022, Monthly Notices of the RAS, **517**, 4736.
     ([DOI:10.1093/mnras/stac2686](https://doi.org/10.1093/mnras/stac2686 "https://doi.org/10.1093/mnras/stac2686"), 
     [arXiv:2209.09785](https://arxiv.org/abs/2209.09785 "https://arxiv.org/abs/2209.09785"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4736A/abstract "https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4736A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022MNRAS.517.4736A/abstract "https://scixplorer.org/abs/2022MNRAS.517.4736A/abstract"))
 48. *"A deep spectromorphological study of the gamma-ray emission surrounding the young massive stellar cluster Westerlund 1,"*  
     H.E.S.S. Collaboration, 2022, Astronomy & Astrophysics, **666**, A124.
     ([DOI:10.1051/0004-6361/202244323](https://doi.org/10.1051/0004-6361/202244323 "https://doi.org/10.1051/0004-6361/202244323"), 
     [arXiv:2207.10921](https://arxiv.org/abs/2207.10921 "https://arxiv.org/abs/2207.10921"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022arXiv220710921A/abstract "https://ui.adsabs.harvard.edu/abs/2022arXiv220710921A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022arXiv220710921A/abstract "https://scixplorer.org/abs/2022arXiv220710921A/abstract"))
 49. *"Detailed study of extended gamma-ray morphology in the vicinity of the Coma cluster with Fermi-LAT,"*  
     V. Baghmanyan, D. Zargaryan, F. Aharonian, R. Yang, S. Casanova, J. Mackey
     2022, Monthly Notices of the RAS, **516**, 562.  
     ([DOI:10.1093/mnras/stac2266](https://doi.org/10.1093/mnras/stac2266 "https://doi.org/10.1093/mnras/stac2266"), 
     [arXiv:2110.00309](https://arxiv.org/abs/2110.00309 "https://arxiv.org/abs/2110.00309"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..562B/abstract "https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..562B/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022MNRAS.516..562B/abstract "https://scixplorer.org/abs/2022MNRAS.516..562B/abstract"))
 50. *"Core-collapse supernovae in dense environments - particle acceleration and non-thermal emission,"*  
     R. Brose, I. Sushch, J. Mackey, 2022, Monthly Notices of the RAS, **516**, 492.  
     ([DOI:10.1093/mnras/stac2234](https://doi.org/10.1093/mnras/stac2234 "https://doi.org/10.1093/mnras/stac2234"), 
     [arXiv:2208.04185](https://arxiv.org/abs/2208.04185 "https://arxiv.org/abs/2208.04185"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..492B/abstract "https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..492B/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022MNRAS.516..492B/abstract "https://scixplorer.org/abs/2022MNRAS.516..492B/abstract"))
 51. *"Search for dark matter annihilation signals in the H.E.S.S. Inner Galaxy Survey,"*  
     H.E.S.S. Collaboration, 2022, Phys. Rev. Lett., **129**, 111101.
     (DOI, 
     [arXiv:2207.10471](https://arxiv.org/abs/2207.10471 "https://arxiv.org/abs/2207.10471"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022arXiv220710471H/abstract "https://ui.adsabs.harvard.edu/abs/2022arXiv220710471H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022arXiv220710471H/abstract "https://scixplorer.org/abs/2022arXiv220710471H/abstract"))
 52. *"A MeerKAT, e-MERLIN, H.E.S.S. and Swift search for persistent and transient emission associated with three localised FRBs,"*  
     Chibueze *et al.*, and the H.E.S.S. Collaboration, 2022, Monthly Notices of the RAS, **515**, 1365.
     ([DOI:10.1093/mnras/stac1601](https://doi.org/10.1093/mnras/stac1601 "https://doi.org/10.1093/mnras/stac1601"), 
     [arXiv:2201.00069](https://arxiv.org/abs/2201.00069 "https://arxiv.org/abs/2201.00069"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1365C/abstract "https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1365C/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022MNRAS.515.1365C/abstract "https://scixplorer.org/abs/2022MNRAS.515.1365C/abstract"))
 53. *"Thermal emission from bow shocks II: 3D magnetohydrodynamic models of Zeta Ophiuchi,"*  
     S. Green, J. Mackey, et al., 2022, Astronomy & Astrophysics, **665**, A35.
     ([DOI:10.1051/0004-6361/202243531](https://doi.org/10.1051/0004-6361/202243531 "https://doi.org/10.1051/0004-6361/202243531"), 
     [arXiv:2203.06331](https://arxiv.org/abs/2203.06331 "https://arxiv.org/abs/2203.06331"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..35G/abstract "https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..35G/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022A%26A...665A..35G/abstract "https://scixplorer.org/abs/2022A%26A...665A..35G/abstract"))
 54. *"And then they were two: detection of non-thermal radio emission from the bow shocks of two runaway stars,"*  
     M. Moutzouri, J. Mackey, *et al.*, 2022, Astronomy & Astrophysics, **663**, A80.
     ([DOI:10.1051/0004-6361/202243098](https://doi.org/10.1051/0004-6361/202243098 "https://doi.org/10.1051/0004-6361/202243098"), 
     [arXiv:2204.11913](https://arxiv.org/abs/2204.11913 "https://arxiv.org/abs/2204.11913"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A..80M/abstract "https://ui.adsabs.harvard.edu/abs/2022A%26A...663A..80M/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022A%26A...663A..80M/abstract "https://scixplorer.org/abs/2022A%26A...663A..80M/abstract"))
 55. *"Evidence for gamma-ray emission from the remnant of Kepler's supernova based on deep H.E.S.S. observations,"*  
     H.E.S.S. Collaboration, 2022, Astronomy & Astrophysics, **662**, A65.
     ([DOI:10.1051/0004-6361/202243096](https://doi.org/10.1051/0004-6361/202243096 "https://doi.org/10.1051/0004-6361/202243096"), 
     [arXiv:2201.05839](https://arxiv.org/abs/2201.05839 "https://arxiv.org/abs/2201.05839"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..65H/abstract "https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..65H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022A%26A...662A..65H/abstract "https://scixplorer.org/abs/2022A%26A...662A..65H/abstract"))
 56. *"Time-resolved hadronic particle acceleration in the recurrent nova RS Ophiuchi,"*  
     H.E.S.S. Collaboration, 2022, Science, **376**, 77.
     ([DOI:10.1126/science.abn0567](https://doi.org/10.1126/science.abn0567 "https://doi.org/10.1126/science.abn0567"), 
     [arXiv:2202.08201](https://arxiv.org/abs/2202.08201 "https://arxiv.org/abs/2202.08201"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022Sci...376...77H/abstract "https://ui.adsabs.harvard.edu/abs/2022Sci...376...77H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022Sci...376...77H/abstract "https://scixplorer.org/abs/2022Sci...376...77H/abstract"))
 57. *"Multi-wavelength observations of the Blazar 4C +28.07,"*  
     D. Zargaryan, J. Mackey, T. Barnouin, F. Aharonian,
     2022, Monthly Notices of the RAS, **510**, 1118.  
     ([DOI:10.1093/mnras/stab3538](https://doi.org/10.1093/mnras/stab3538 "https://doi.org/10.1093/mnras/stab3538"), 
     [arXiv:2109.08752](https://arxiv.org/abs/2109.08752 "https://arxiv.org/abs/2109.08752"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1118Z/abstract "https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1118Z/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022MNRAS.510.1118Z/abstract "https://scixplorer.org/abs/2022MNRAS.510.1118Z/abstract"))
 58. *" H.E.S.S. follow-up observations of Binary Black Hole Coalescence events during the second and third Gravitational Waves observing runs of Advanced LIGO and Advanced Virgo,"*  
     H.E.S.S. Collaboration, 2021, The Astrophysical Journal, **923**, 109  
     ([DOI:10.3847/1538-4357/ac2e04](https://doi.org/10.3847/1538-4357/ac2e04 "https://doi.org/10.3847/1538-4357/ac2e04"), 
     [arXiv:2112.08307](https://arxiv.org/abs/2112.08307 "https://arxiv.org/abs/2112.08307"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..109A/abstract "https://ui.adsabs.harvard.edu/abs/2021ApJ...923..109A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021ApJ...923..109A/abstract "https://scixplorer.org/abs/2021ApJ...923..109A/abstract"))
 59. *"A wind-blown bubble in the Central Molecular Zone cloud G0.253+0.016,"*  
     J.D. Henshaw, M.R. Krumholz, N.O. Butterfield, J. Mackey, et al.,
     2022, Monthly Notices of the RAS, **509**, 4758  
     ([DOI:10.1093/mnras/stab3039](https://doi.org/10.1093/mnras/stab3039 "https://doi.org/10.1093/mnras/stab3039"), 
     [arXiv:2110.11367](https://arxiv.org/abs/2110.11367 "https://arxiv.org/abs/2110.11367"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4758H/abstract "https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4758H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2022MNRAS.509.4758H/abstract "https://scixplorer.org/abs/2022MNRAS.509.4758H/abstract"))
 60. *"Observation of the gamma-ray binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS telescopes,"*  
     **H.E.S.S./MAGIC/VERITAS Collaborations**, 2021, The Astrophysical Journal, **923**, 241.
     ([DOI:10.3847/1538-4357/ac29b7](https://doi.org/10.3847/1538-4357/ac29b7 "https://doi.org/10.3847/1538-4357/ac29b7"), 
     [arXiv:2109.11894](https://arxiv.org/abs/2109.11894 "https://arxiv.org/abs/2109.11894"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021arXiv210911894A/abstract "https://ui.adsabs.harvard.edu/abs/2021arXiv210911894A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021arXiv210911894A/abstract "https://scixplorer.org/abs/2021arXiv210911894A/abstract"))
 61. *"Searching for TeV Gamma-Ray Emission from SGR 1935+2154 during Its 2020 X-Ray and Radio Bursting Phase,"*  
     H.E.S.S. Collaboration, 2021, The Astrophysical Journal, **919**, 106.
     ([DOI:10.3847/1538-4357/ac0fe1](https://doi.org/10.3847/1538-4357/ac0fe1 "https://doi.org/10.3847/1538-4357/ac0fe1"), 
     [arXiv:2110.00636](https://arxiv.org/abs/2110.00636 "https://arxiv.org/abs/2110.00636"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021ApJ...919..106A/abstract "https://ui.adsabs.harvard.edu/abs/2021ApJ...919..106A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021ApJ...919..106A/abstract "https://scixplorer.org/abs/2021ApJ...919..106A/abstract"))
 62. *"LMC N132D: A mature supernova remnant with a power-law gamma-ray spectrum extending beyond 8 TeV,"*  
     H.E.S.S. Collaboration, 2021, Astronomy & Astrophysics, in press
     ([DOI:10.1051/0004-6361/202141486](https://doi.org/10.1051/0004-6361/202141486 "https://doi.org/10.1051/0004-6361/202141486"), 
     [arXiv:2108.02015](https://arxiv.org/abs/2108.02015 "https://arxiv.org/abs/2108.02015"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021arXiv210802015H/abstract "https://ui.adsabs.harvard.edu/abs/2021arXiv210802015H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021arXiv210802015H/abstract "https://scixplorer.org/abs/2021arXiv210802015H/abstract"))
 63. *"Evidence of 100 TeV gamma-ray emission from HESS J1702-420: A new PeVatron candidate,"*  
     H.E.S.S. Collaboration,
     2021, Astronomy & Astrophysics, accepted.  
     ([DOI:10.1051/0004-6361/202140962](https://doi.org/10.1051/0004-6361/202140962 "https://doi.org/10.1051/0004-6361/202140962"), 
     [arXiv:2106.06405](https://arxiv.org/abs/2106.06405 "https://arxiv.org/abs/2106.06405"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021arXiv210606405A/abstract "https://ui.adsabs.harvard.edu/abs/2021arXiv210606405A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021arXiv210606405A/abstract "https://scixplorer.org/abs/2021arXiv210606405A/abstract"))
 64. *"Search for dark matter annihilation signals from unidentified Fermi-LAT objects with H.E.S.S.,"*  
     H.E.S.S. Collaboration, 2021, The Astrophysical Journal, **918**, 17.  
     ([DOI:10.3847/1538-4357/abff59](https://doi.org/10.3847/1538-4357/abff59 "https://doi.org/10.3847/1538-4357/abff59"), 
     [arXiv:2106.00551](https://arxiv.org/abs/2106.00551 "https://arxiv.org/abs/2106.00551"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021ApJ...918...17A/abstract "https://ui.adsabs.harvard.edu/abs/2021ApJ...918...17A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021ApJ...918...17A/abstract "https://scixplorer.org/abs/2021ApJ...918...17A/abstract"))
 65. *"TeV Emission of Galactic Plane Sources with HAWC and H.E.S.S.,"*  
     H.E.S.S. Collaboration, 2021, The Astrophysical Journal, **917**, 6.  
     ([DOI:10.3847/1538-4357/abf64b](https://doi.org/10.3847/1538-4357/abf64b "https://doi.org/10.3847/1538-4357/abf64b"), 
     [arXiv:2107.01425](https://arxiv.org/abs/2107.01425 "https://arxiv.org/abs/2107.01425"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021ApJ...917....6A/abstract "https://ui.adsabs.harvard.edu/abs/2021ApJ...917....6A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021ApJ...917....6A/abstract "https://scixplorer.org/abs/2021ApJ...917....6A/abstract"))
 66. *"Revealing x-ray and gamma ray temporal and spectral similarities in the GRB 190829A afterglow,"*  
     H.E.S.S. Collaboration,
     2021, Science, **372**, 1081.  
     ([DOI:10.1126/science.abe8560](https://doi.org/10.1126/science.abe8560 "https://doi.org/10.1126/science.abe8560"), 
     [arXiv:2106.02510](https://arxiv.org/abs/2106.02510 "https://arxiv.org/abs/2106.02510"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021arXiv210602510H/abstract "https://ui.adsabs.harvard.edu/abs/2021arXiv210602510H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021arXiv210602510H/abstract "https://scixplorer.org/abs/2021arXiv210602510H/abstract"))
 67. *"PION: Simulating bow shocks and circumstellar nebulae,"*  
     J. Mackey, S. Green, M. Moutzouri, T.J. Haworth, R.D. Kavanagh, D. Zargaryan & M. Celeste,
     2021, Monthly Notices of the RAS, **504**, 983.  
     ([DOI:10.1093/mnras/stab781](https://doi.org/10.1093/mnras/stab781 "https://doi.org/10.1093/mnras/stab781"), 
     [arXiv:2103.07555](https://arxiv.org/abs/2103.07555 "https://arxiv.org/abs/2103.07555"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..983M/abstract "https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..983M/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021MNRAS.504..983M/abstract "https://scixplorer.org/abs/2021MNRAS.504..983M/abstract"))
 68. *"Search for dark matter annihilation in the Wolf-Lundmark-Melotte dwarf irregular galaxy with H.E.S.S."*  
     H.E.S.S. Collaboration, (including F. Aharonian, R. Brose, J. Mackey, D. Zargaryan)
     2021, Physical Review D, **103**, 102002.
     ([DOI:10.1103/PhysRevD.103.102002](https://doi.org/10.1103/PhysRevD.103.102002 "https://doi.org/10.1103/PhysRevD.103.102002"), 
     [arXiv:2105.04325](https://arxiv.org/abs/2105.04325 "https://arxiv.org/abs/2105.04325"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021PhRvD.103j2002A/abstract "https://ui.adsabs.harvard.edu/abs/2021PhRvD.103j2002A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021PhRvD.103j2002A/abstract "https://scixplorer.org/abs/2021PhRvD.103j2002A/abstract"))
 69. *"Broadband Multi-wavelength Properties of M87 during the 2017 Event Horizon Telescope Campaign,"*  
     H.E.S.S. Collaboration,
     2021, The Astrophysical Journal Letters, **911**, L11.  
     ([DOI:10.3847/2041-8213/abef71](https://doi.org/10.3847/2041-8213/abef71 "https://doi.org/10.3847/2041-8213/abef71"), 
     arXiv, 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..11E/abstract "https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..11E/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021ApJ...911L..11E/abstract "https://scixplorer.org/abs/2021ApJ...911L..11E/abstract"))
 70. *"Magnetic fields and Star Formation around HII regions: The S235 complex,"*  
     R. Devaraj, D.P. Clemens, L.K. Dewangan, A. Luna, T.P. Ray, & J. Mackey,
     2021, The Astrophysical Journal, **911**, 81.  
     ([DOI:10.3847/1538-4357/abe9b1](https://doi.org/10.3847/1538-4357/abe9b1 "https://doi.org/10.3847/1538-4357/abe9b1"), 
     [arXiv:2103.02956](https://arxiv.org/abs/2103.02956 "https://arxiv.org/abs/2103.02956"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021ApJ...911...81D/abstract "https://ui.adsabs.harvard.edu/abs/2021ApJ...911...81D/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021ApJ...911...81D/abstract "https://scixplorer.org/abs/2021ApJ...911...81D/abstract"))
 71. *"H.E.S.S. and MAGIC observations of a sudden cessation of a very-high-energy gamma-ray flare in PKS 1510-089 in May 2016,"*  
     H.E.S.S. Collaboration,
     2021, Astronomy & Astrophysics, 648, A23  
     ([DOI:10.1051/0004-6361/202038949](https://doi.org/10.1051/0004-6361/202038949 "https://doi.org/10.1051/0004-6361/202038949"), 
     [arXiv:2012.10254](https://arxiv.org/abs/2012.10254 "https://arxiv.org/abs/2012.10254"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021A%26A...648A..23H/abstract "https://ui.adsabs.harvard.edu/abs/2021A%26A...648A..23H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021A%26A...648A..23H/abstract "https://scixplorer.org/abs/2021A%26A...648A..23H/abstract"))
 72. *"Wind-envelope interaction as the origin of the slow cyclic brightness variations of luminous blue variables,"*  
     L. Grassitelli, N. Langer, J. Mackey, *et al.,*
     2021, Astronomy & Astrophysics, **647**, A99.  
     ([DOI:10.1051/0004-6361/202038298](https://doi.org/10.1051/0004-6361/202038298 "https://doi.org/10.1051/0004-6361/202038298"), 
     [arXiv:2012.00023](https://arxiv.org/abs/2012.00023 "https://arxiv.org/abs/2012.00023"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A..99G/abstract "https://ui.adsabs.harvard.edu/abs/2021A%26A...647A..99G/abstract"))
+    [ADS record](https://scixplorer.org/abs/2021A%26A...647A..99G/abstract "https://scixplorer.org/abs/2021A%26A...647A..99G/abstract"))
 73. *"An extreme particle accelerator in the Galactic plane: HESS J1826-130,"*  
     H.E.S.S. Collaboration,
     2020, Astronomy & Astrophysics, **644**, A112.  
     ([DOI:10.1051/0004-6361/202038851](https://doi.org/10.1051/0004-6361/202038851 "https://doi.org/10.1051/0004-6361/202038851"), 
     [arXiv:2010.13101](https://arxiv.org/abs/2010.13101 "https://arxiv.org/abs/2010.13101"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2020A%26A...644A.112H/abstract "https://ui.adsabs.harvard.edu/abs/2020A%26A...644A.112H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2020A%26A...644A.112H/abstract "https://scixplorer.org/abs/2020A%26A...644A.112H/abstract"))
 74. *"Search for dark matter signals towards a selection of recently detected DES dwarf galaxy satellites of the Milky Way with H.E.S.S.,"*  
     H.E.S.S. Collaboration,
     2020, Phys. Rev. D, **102**, 062001.  
     ([DOI:10.1103/PhysRevD.102.062001](https://doi.org/10.1103/PhysRevD.102.062001 "https://doi.org/10.1103/PhysRevD.102.062001"), 
     [arXiv:2008.00688](https://arxiv.org/abs/2008.00688 "https://arxiv.org/abs/2008.00688"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102f2001A/abstract "https://ui.adsabs.harvard.edu/abs/2020PhRvD.102f2001A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2020PhRvD.102f2001A/abstract "https://scixplorer.org/abs/2020PhRvD.102f2001A/abstract"))
 75. *"Simultaneous observations of the blazar PKS2155-304 from Ultra-Violet to TeV energies,"*  
     H.E.S.S. Collaboration,
     2020, Astronomy & Astrophysics, **639**, A42.  
     ([DOI](https://doi.org/10.1051/0004-6361/201936900 "https://doi.org/10.1051/0004-6361/201936900"), 
     [arXiv:1912.07273](https://arxiv.org/abs/1912.07273 "https://arxiv.org/abs/1912.07273"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2019arXiv191207273H/abstract "https://ui.adsabs.harvard.edu/abs/2019arXiv191207273H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2019arXiv191207273H/abstract "https://scixplorer.org/abs/2019arXiv191207273H/abstract"))
 76. *"Resolving acceleration to very high energies along the jet of Centaurus A,"*  
     H.E.S.S. Collaboration,
     2020, Nature, **582**, 356.  
     ([DOI:10.1038/s41586-020-2354-1](https://doi.org/10.1038/s41586-020-2354-1 "https://doi.org/10.1038/s41586-020-2354-1"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2020Natur.582..356H/abstract "https://ui.adsabs.harvard.edu/abs/2020Natur.582..356H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2020Natur.582..356H/abstract "https://scixplorer.org/abs/2020Natur.582..356H/abstract"))
 77. *"Probing the Magnetic Field in the GW170817 Outflow Using H.E.S.S. Observations,"*  
     H.E.S.S. Collaboration,
     2020, The Astrophysical Journal Letters, **894**, L16.  
     ([DOI:10.3847/2041-8213/ab8b59](https://doi.org/10.3847/2041-8213/ab8b59 "https://doi.org/10.3847/2041-8213/ab8b59"), 
     [arXiv:2004.10105](https://arxiv.org/abs/2004.10105 "https://arxiv.org/abs/2004.10105"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2020ApJ...894L..16A/abstract "https://ui.adsabs.harvard.edu/abs/2020ApJ...894L..16A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2020ApJ...894L..16A/abstract "https://scixplorer.org/abs/2020ApJ...894L..16A/abstract"))
 78. *"Very high energy gamma-ray emission from two blazars of unknown redshift and upper limits on their distance,"*  
     H.E.S.S. Collaboration,
     2020, Monthly Notices of the RAS, **494**, 5590.  
     ([DOI:10.1093/mnras/staa999](https://doi.org/10.1093/mnras/staa999 "https://doi.org/10.1093/mnras/staa999"), 
     [arXiv:2004.03306](https://arxiv.org/abs/2004.03306 "https://arxiv.org/abs/2004.03306"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5590A/abstract "https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5590A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2020MNRAS.494.5590A/abstract "https://scixplorer.org/abs/2020MNRAS.494.5590A/abstract"))
 79. *"Detection of very-high-energy Gamma-ray emission from the colliding wind binary eta Car with H.E.S.S,"*  
     H.E.S.S. Collaboration,
     2020, Astronomy & Astrophysics, **635**, A167.  
     ([DOI:10.1051/0004-6361/201936761](https://doi.org/10.1051/0004-6361/201936761 "https://doi.org/10.1051/0004-6361/201936761"), 
     [arXiv:2002.02336](https://arxiv.org/abs/2002.02336 "https://arxiv.org/abs/2002.02336"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A.167H/abstract "https://ui.adsabs.harvard.edu/abs/2020A%26A...635A.167H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2020A%26A...635A.167H/abstract "https://scixplorer.org/abs/2020A%26A...635A.167H/abstract"))
 80. *"H.E.S.S. and Fermi-LAT observations of PSR B1259-63/LS 2883 during its 2014 and 2017 periastron passages,"*  
     H.E.S.S. Collaboration,
     2020, Astronomy & Astrophysics, **633**, A102.  
     ([DOI:10.1051/0004-6361/201936621](https://doi.org/10.1051/0004-6361/201936621 "https://doi.org/10.1051/0004-6361/201936621"), 
     [arXiv:1912.07273](https://arxiv.org/abs/1912.07273 "https://arxiv.org/abs/1912.07273"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2019arXiv191205868H/abstract "https://ui.adsabs.harvard.edu/abs/2019arXiv191205868H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2019arXiv191205868H/abstract "https://scixplorer.org/abs/2019arXiv191205868H/abstract"))
 81. *"H.E.S.S. detection of very-high-energy gamma-ray emission from the quasar PKS 0736+017,"*  
     H.E.S.S. Collaboration,
     2020, Astronomy & Astrophysics, **633**, A162.  
     ([DOI:10.1051/0004-6361/201935906](https://doi.org/10.1051/0004-6361/201935906 "https://doi.org/10.1051/0004-6361/201935906"), 
     [arXiv:1911.04761](https://arxiv.org/abs/1911.04761 "https://arxiv.org/abs/1911.04761"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2019arXiv191104761H/abstract "https://ui.adsabs.harvard.edu/abs/2019arXiv191104761H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2019arXiv191104761H/abstract "https://scixplorer.org/abs/2019arXiv191104761H/abstract"))
 82. *"A very-high-energy component deep in the gamma-ray burst afterglow,"*  
     H.E.S.S. Collaboration,
     2019, Nature, **575**, Issue 7783, 464.  
     ([DOI:10.1038/s41586-019-1743-9](https://doi.org/10.1038/s41586-019-1743-9 "https://doi.org/10.1038/s41586-019-1743-9"), 
     [arXiv:1911.08961](https://arxiv.org/abs/1911.08961 "https://arxiv.org/abs/1911.08961"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2019Natur.575..464A/abstract "https://ui.adsabs.harvard.edu/abs/2019Natur.575..464A/abstract"))
+    [ADS record](https://scixplorer.org/abs/2019Natur.575..464A/abstract "https://scixplorer.org/abs/2019Natur.575..464A/abstract"))
 83. *"Constraints on the emission region of 3C 279 during strong flares in 2014 and 2015 through VHE Gamma-ray observations with H.E.S.S,"*  
     H.E.S.S. Collaboration,
     2019, Astronomy & Astrophysics, **627**, A159.  
     ([DOI:10.1051/0004-6361/201935704](https://doi.org/10.1051/0004-6361/201935704 "https://doi.org/10.1051/0004-6361/201935704"), 
     [arXiv:1906.04996](https://arxiv.org/abs/1906.04996 "https://arxiv.org/abs/1906.04996"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A.159H/abstract "https://ui.adsabs.harvard.edu/abs/2019A%26A...627A.159H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2019A%26A...627A.159H/abstract "https://scixplorer.org/abs/2019A%26A...627A.159H/abstract"))
 84. *"Non-Equilibrium Chemistry and Destruction of CO by X-ray Flares,"*  
     J. Mackey, S. Walch, D. Seifried, S.C.O. Glover, R. Wünsch, & F. Aharonian,
       
     2019, Monthly Notices of the RAS, **486**, 1094.  
     ([DOI:10.1093/mnras/stz902](https://doi.org/10.1093/mnras/stz902 "https://doi.org/10.1093/mnras/stz902"), 
     [arXiv:1803.10367](https://arxiv.org/abs/1803.10367 "https://arxiv.org/abs/1803.10367"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1094M/abstract "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1094M/abstract"))
+    [ADS record](https://scixplorer.org/abs/2019MNRAS.486.1094M/abstract "https://scixplorer.org/abs/2019MNRAS.486.1094M/abstract"))
 
 85. *"Upper Limits on Very-High-Energy Gamma-ray Emission from Core-Collapse Supernovae Observed with H.E.S.S,"*  
     H.E.S.S. Collaboration,
     2019, Astronomy & Astrophysics, **626**, A57.  
     ([DOI:10.1051/0004-6361/201935242](https://doi.org/10.1051/0004-6361/201935242 "https://doi.org/10.1051/0004-6361/201935242"), 
     [arXiv:1904.10526](https://arxiv.org/abs/1904.10526 "https://arxiv.org/abs/1904.10526"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2019A%26A...626A..57H/abstract "https://ui.adsabs.harvard.edu/abs/2019A%26A...626A..57H/abstract"))
+    [ADS record](https://scixplorer.org/abs/2019A%26A...626A..57H/abstract "https://scixplorer.org/abs/2019A%26A...626A..57H/abstract"))
 
 86. *"Thermal emission from bow shocks I: 2D Hydrodynamic Models of the Bubble Nebula,"*  
     Samuel Green, J. Mackey, Thomas J. Haworth, Vasilii V. Gvaramadze & Peter Duffy,
     2019, Astronomy & Astrophysics, **625**, A4.  
     ([DOI:10.1051/0004-6361/201834832](https://doi.org/10.1051/0004-6361/201834832 "https://doi.org/10.1051/0004-6361/201834832"), 
     [arXiv:1903.05505](https://arxiv.org/abs/1903.05505 "https://arxiv.org/abs/1903.05505"), 
-    [ADS record](https://ui.adsabs.harvard.edu/#abs/arXiv:1903.05505 "https://ui.adsabs.harvard.edu/#abs/arXiv:1903.05505"))
+    [ADS record](https://scixplorer.org/#abs/arXiv:1903.05505 "https://scixplorer.org/#abs/arXiv:1903.05505"))
 
 87. *"The classical D-type expansion of spherical H II regions,"*  
     R.J.R. Williams, T.G. Bisbas, T.J. Haworth & J. Mackey,  
     2018, Monthly Notices of the RAS, **479**, 2016  
     ([DOI:10.1093/mnras/sty1484](https://doi.org/10.1093/mnras/sty1484 "https://doi.org/10.1093/mnras/sty1484"), 
     ([arXiv:1805.09273](https://arxiv.org/abs/1805.09273 "https://arxiv.org/abs/1805.09273"), 
-    [ADS record](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.2016W/abstract "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.2016W/abstract"))
+    [ADS record](https://scixplorer.org/#abs/2018MNRAS.479.2016W/abstract "https://scixplorer.org/#abs/2018MNRAS.479.2016W/abstract"))
 
 88. *["Subsonic structure and optically thick winds from Wolf-Rayet stars,"](https://doi.org/10.1051/0004-6361/201731542 "https://doi.org/10.1051/0004-6361/201731542")*  
     L. Grassitelli, N. Langer, N.J. Grin, J. Mackey, J.M. Bestenlehner & G. Graefener,  
     2018, Astronomy & Astrophysics, **614**, A86.  
     ([DOI:10.1051/0004-6361/201731542](https://doi.org/10.1051/0004-6361/201731542 "https://doi.org/10.1051/0004-6361/201731542"), 
     [arXiv:1803.03033](https://arxiv.org/abs/1803.03033 "https://arxiv.org/abs/1803.03033"), 
-    [ADS record](https://ui.adsabs.harvard.edu/#abs/2018A&A...614A..86G/abstract "https://ui.adsabs.harvard.edu/#abs/2018A&A...614A..86G/abstract"))
+    [ADS record](https://scixplorer.org/#abs/2018A&A...614A..86G/abstract "https://scixplorer.org/#abs/2018A&A...614A..86G/abstract"))
 89. *["Mapping the core of the Tarantula Nebula with VLT-MUSE I. Spectral and nebular content around R136,"](https://doi.org/10.1051/0004-6361/201732084 "https://doi.org/10.1051/0004-6361/201732084")*  
     N. Castro, P.A. Crowther, C.J. Evans, J. Mackey, *et al.*,
     2018, Astronomy & Astrophysics, **614**, A147.  
     ([DOI:10.1051/0004-6361/201732084](https://doi.org/10.1051/0004-6361/201732084 "https://doi.org/10.1051/0004-6361/201732084"), 
     [arXiv:1802.01597](https://arxiv.org/abs/1802.01597 "https://arxiv.org/abs/1802.01597"), 
-    [ADS record](https://ui.adsabs.harvard.edu/#abs/2018A&A...614A.147C/abstract "https://ui.adsabs.harvard.edu/#abs/2018A&A...614A.147C/abstract"))
+    [ADS record](https://scixplorer.org/#abs/2018A&A...614A.147C/abstract "https://scixplorer.org/#abs/2018A&A...614A.147C/abstract"))
 90. *["Supergiants and their shells in young globular clusters,"](https://doi.org/10.1051/0004-6361/201731500 "https://doi.org/10.1051/0004-6361/201731500")*  
     Dorottya Szecsi, J. Mackey, Norbert Langer,
     2018, Astronomy & Astrophysics, **612**, A55.  
     ([DOI:10.1051/0004-6361/201731500](https://doi.org/10.1051/0004-6361/201731500 "https://doi.org/10.1051/0004-6361/201731500"), 
     [arXiv:1711.04007](https://arxiv.org/abs/1711.04007 "https://arxiv.org/abs/1711.04007"), 
-    [ADS record](https://ui.adsabs.harvard.edu/#abs/2018A&A...612A..55S/abstract "https://ui.adsabs.harvard.edu/#abs/2018A&A...612A..55S/abstract"))
+    [ADS record](https://scixplorer.org/#abs/2018A&A...612A..55S/abstract "https://scixplorer.org/#abs/2018A&A...612A..55S/abstract"))
 
 91. *["IRAS 18153-1651: an H II region with a possible wind bubble blown by a young main-sequence B star,"](http://dx.doi.org/10.1093/mnras/stw3257 "http://dx.doi.org/10.1093/mnras/stw3257")*  
     Vasilii V. Gvaramadze, J. Mackey, Alexei Y. Kniazev, *et al.*,
@@ -579,13 +615,13 @@ Refereed Publications
     2015, Astronomy & Astrophysics, **582**, A24.  
     ([DOI:10.1051/0004-6361/201526159](http://dx.doi.org/10.1051/0004-6361/201526159 "http://dx.doi.org/10.1051/0004-6361/201526159"), 
     [arXiv:1508.07003](http://arxiv.org/abs/1508.07003 "http://arxiv.org/abs/1508.07003"), 
-    [ADS](https://ui.adsabs.harvard.edu/#abs/2015A&A...582A..24M/abstract "https://ui.adsabs.harvard.edu/#abs/2015A&A...582A..24M/abstract"))
+    [ADS](https://scixplorer.org/#abs/2015A&A...582A..24M/abstract "https://scixplorer.org/#abs/2015A&A...582A..24M/abstract"))
 97. *["StarBench: The D-type expansion of an HII region,"](http://dx.doi.org/10.1093/mnras/stv1659 "http://dx.doi.org/10.1093/mnras/stv1659")*  
     Thomas Bisbas, Thomas Haworth, Robin Williams, J. Mackey, Pascal Tremblin, *et al.*,
     2015, Monthly Notices of the RAS, **453**, 1324-1343.  
     ([DOI:10.1093/mnras/stv1659](http://dx.doi.org/10.1093/mnras/stv1659 "http://dx.doi.org/10.1093/mnras/stv1659"), 
     [arXiv:1507.05621](http://arxiv.org/abs/1507.05621 "http://arxiv.org/abs/1507.05621"), 
-    [ADS record](https://ui.adsabs.harvard.edu/#abs/2015MNRAS.453.1324B/abstract "https://ui.adsabs.harvard.edu/#abs/2015MNRAS.453.1324B/abstract"))
+    [ADS record](https://scixplorer.org/#abs/2015MNRAS.453.1324B/abstract "https://scixplorer.org/#abs/2015MNRAS.453.1324B/abstract"))
 98. *["Asymmetric supernova remnants generated by Galactic, massive runaway stars"](http://adsabs.harvard.edu/abs/2015MNRAS.450.3080M "http://adsabs.harvard.edu/abs/2015MNRAS.450.3080M")*  
     Dominique M.-A. Meyer, Norbert Langer, J. Mackey, Pablo F. Velazquez, & Antoine Gusdorf,
     2015, Monthly Notices of the RAS, **450**, 3080-3100.  
@@ -706,40 +742,40 @@ Conference Proceedings, Book Chapters and other Publications
    J. Mackey, T.A.K. Jones, R. Brose, et al.,  
    2024, Procedia Computer Science, **240**, 82–90 (Proceedings of the First EuroHPC Users Day, December 2023, Brussels, Belgium)  
    ([DOI:10.1016/j.procs.2024.07.011](https://doi.org/10.1016/j.procs.2024.07.011 "https://doi.org/10.1016/j.procs.2024.07.011"))
-4. *"[Simulating Wind-Blown Nebulae from Single and Binary Massive Stars](https://ui.adsabs.harvard.edu/abs/2024JPhCS2742a2007M/abstract "https://ui.adsabs.harvard.edu/abs/2024JPhCS2742a2007M/abstract"),"*  
+4. *"[Simulating Wind-Blown Nebulae from Single and Binary Massive Stars](https://scixplorer.org/abs/2024JPhCS2742a2007M/abstract "https://scixplorer.org/abs/2024JPhCS2742a2007M/abstract"),"*  
    J. Mackey, 2024, Journal of Physics: Conference Series, **2742**, 012007 (15th International Conference on Numerical Modeling of Space Plasma Flows, June 2023, Pasadena, California, USA, Eds: Pogorelov, Audit, Zank).
    ([DOI:10.1088/1742-6596/2742/1/012007](https://doi.org/10.1088/1742-6596/2742/1/012007 "https://doi.org/10.1088/1742-6596/2742/1/012007"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2024JPhCS2742a2007M/abstract "https://ui.adsabs.harvard.edu/abs/2024JPhCS2742a2007M/abstract"))
+   [ADS record](https://scixplorer.org/abs/2024JPhCS2742a2007M/abstract "https://scixplorer.org/abs/2024JPhCS2742a2007M/abstract"))
 5. *"Interaction between massive star winds and the interstellar medium,"*  
    J. Mackey,
    2022, Invited Review at IAU Symposium 370: Winds from stars and exoplanets (Eds. Aline Vidotto, Luca Fossati and Jorick Vink),
    (DOI, 
    [arXiv:2211.08808](https://arxiv.org/abs/2211.08808 "https://arxiv.org/abs/2211.08808"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2022arXiv221108808M/abstract "https://ui.adsabs.harvard.edu/abs/2022arXiv221108808M/abstract"))
-6. *"[PION: Simulations of Wind-Blown Nebulae](https://ui.adsabs.harvard.edu/abs/2023IAUS..362..262M/abstract "https://ui.adsabs.harvard.edu/abs/2023IAUS..362..262M/abstract"),"*  
+   [ADS record](https://scixplorer.org/abs/2022arXiv221108808M/abstract "https://scixplorer.org/abs/2022arXiv221108808M/abstract"))
+6. *"[PION: Simulations of Wind-Blown Nebulae](https://scixplorer.org/abs/2023IAUS..362..262M/abstract "https://scixplorer.org/abs/2023IAUS..362..262M/abstract"),"*  
    J. Mackey, S. Green, M. Moutzouri, T.J. Haworth, R.D. Kavanagh, M. Celeste, R. Brose, D. Zargaryan, C. O'Rourke  
    2023, Proceedings of the International Astronomical Union, Volume 362, pp. 262-267  
    ([DOI:10.1017/S1743921322001399](https://doi.org/10.1017/S1743921322001399 "https://doi.org/10.1017/S1743921322001399"), 
    [arXiv:2203.04693](https://arxiv.org/abs/2203.04693 "https://arxiv.org/abs/2203.04693"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2023IAUS..362..262M/abstract "https://ui.adsabs.harvard.edu/abs/2023IAUS..362..262M/abstract"))
+   [ADS record](https://scixplorer.org/abs/2023IAUS..362..262M/abstract "https://scixplorer.org/abs/2023IAUS..362..262M/abstract"))
 7. *"Diffuse Hot Plasma in the Interstellar Medium and Galactic Outflows,"*  
    M. Sasaki, G. Ponti, J. Mackey,
    2022, Chapter in the Handbook of X-ray and Gamma-ray Astrophysics (Springer Nature Singapore, Eds: Cosimo Bambi, Andrea Santangelo)
    ([DOI:10.1007/978-981-16-4544-0\_91-1](https://doi.org/10.1007/978-981-16-4544-0_91-1 "https://doi.org/10.1007/978-981-16-4544-0_91-1"), 
    [arXiv:2207.01263](https://arxiv.org/abs/2207.01263 "https://arxiv.org/abs/2207.01263"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2022arXiv220701263S/abstract "https://ui.adsabs.harvard.edu/abs/2022arXiv220701263S/abstract"))
+   [ADS record](https://scixplorer.org/abs/2022arXiv220701263S/abstract "https://scixplorer.org/abs/2022arXiv220701263S/abstract"))
 8. *"[Modeling non-thermal emission from SN 1987A](https://pos.sissa.it/395/918/ "https://pos.sissa.it/395/918/"),"*  
    R. Brose, J. Mackey, S. Kelly, N. Grin and L. Grassitelli  
    2021, Proceedings of 37th International Cosmic Ray Conference - PoS(ICRC2021), **395**, 918  
    ([DOI:10.22323/1.395.0918](https://doi.org/10.22323/1.395.0918 "https://doi.org/10.22323/1.395.0918"), 
    [PoS](https://pos.sissa.it/395/918/ "https://pos.sissa.it/395/918/"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2021arXiv210905784B/abstract "https://ui.adsabs.harvard.edu/abs/2021arXiv210905784B/abstract"))
+   [ADS record](https://scixplorer.org/abs/2021arXiv210905784B/abstract "https://scixplorer.org/abs/2021arXiv210905784B/abstract"))
 9. *"[Gamma-ray emission from young supernova remnants in dense circumstellar environments](https://pos.sissa.it/395/679/ "https://pos.sissa.it/395/679/"),"*  
    R. Brose, J. Mackey, I. Sushch  
    2021, Proceedings of 37th International Cosmic Ray Conference - PoS(ICRC2021), **395**, 679  
    ([DOI:10.22323/1.395.0679](https://doi.org/10.22323/1.395.0679 "https://doi.org/10.22323/1.395.0679"), 
    [PoS](https://pos.sissa.it/395/679/ "https://pos.sissa.it/395/679/"), 
-   [ADS record](https://ui.adsabs.harvard.edu/abs/2021arXiv210904828B/abstract "https://ui.adsabs.harvard.edu/abs/2021arXiv210904828B/abstract"))
+   [ADS record](https://scixplorer.org/abs/2021arXiv210904828B/abstract "https://scixplorer.org/abs/2021arXiv210904828B/abstract"))
 10. *"[High Energy Gamma-Ray Emission from the Coma Cluster Region: Deep Morphological and Spectral Studies](https://pos.sissa.it/395/582/ "https://pos.sissa.it/395/582/"),"*  
     D. Zargaryan, V. Baghmanyan, F. Aharonian, J. Mackey, S. Casanova, R. Yang,  
     2021, Proceedings of 37th International Cosmic Ray Conference - PoS(ICRC2021), **395**, 582   
@@ -751,7 +787,7 @@ Conference Proceedings, Book Chapters and other Publications
     2020, J. Phys.: Conf. Ser., **1620**, 012012.  
     ([DOI:10.1088/1742-6596/1620/1/012012](https://dx.doi.org/10.1088/1742-6596/1620/1/012012 "https://dx.doi.org/10.1088/1742-6596/1620/1/012012"), 
     [arXiv:2007.15357](https://arxiv.org/abs/2007.15357 "https://arxiv.org/abs/2007.15357"), 
-    [ADS record](https://ui.adsabs.harvard.edu/abs/2020arXiv200715357M/abstract "https://ui.adsabs.harvard.edu/abs/2020arXiv200715357M/abstract"))
+    [ADS record](https://scixplorer.org/abs/2020arXiv200715357M/abstract "https://scixplorer.org/abs/2020arXiv200715357M/abstract"))
 12. *"[Core Hydrogen Burning Red Supergiants in the Young Globular Clusters](http://adsabs.harvard.edu/abs/2015IAUGA..2256932S "http://adsabs.harvard.edu/abs/2015IAUGA..2256932S"),"*  
     Dorottya Szecsi, Jonathan Mackey, Norbert Langer,  
     2015, [IAU General Assembly, Meeting #29](http://astronomy2015.org/ "http://astronomy2015.org/"), id. #2256932, Honolulu, Hawaii, August 2015.  
@@ -775,7 +811,7 @@ Conference Proceedings, Book Chapters and other Publications
 15. *"[3D Models of Stellar Interactions](http://www.astroscu.unam.mx/apn6/PROCEEDINGS/ "http://www.astroscu.unam.mx/apn6/PROCEEDINGS/"),"*  
     S. Mohamed, Ph. Podsiadlowski, R. Booth, M. Maercker, S. Ramstedt, W. Vlemmings, T. Harries,J. Mackey, N. Langer, R. Corradi,
     2014, Proceedings of *Asymmetrical Planetary Nebulae VI*, id. 60 (4-8 November, 2013), Eds., C. Morisset, G. Delgado-Inglada and S. Torres-Peimbert.  
-    ([ADS record](https://ui.adsabs.harvard.edu/abs/2014apn6.confE..60M/abstract "https://ui.adsabs.harvard.edu/abs/2014apn6.confE..60M/abstract"))
+    ([ADS record](https://scixplorer.org/abs/2014apn6.confE..60M/abstract "https://scixplorer.org/abs/2014apn6.confE..60M/abstract"))
 16. *"[Modelling Near-IR polarization to constrain stellar wind bow shocks](http://a2omega-conference.net/posters.aspx "http://a2omega-conference.net/posters.aspx"),"*  
     Neilson, Hilding R.; Ignace, R.; Shrestha, M.; Hoffman, J. L.; Mackey, J.,  
     2013, Massive Stars: From α to Ω, held 10-14 June 2013 in Rhodes, Greece.  
