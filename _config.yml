@@ -2,6 +2,13 @@
 
 #remote_theme: pages-themes/modernist@v0.2.0
 remote_theme: pages-themes/leap-day@v0.2.0
+#remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+title: Jonathan Mackey
+email: jmackey@cp.dias.ie
+description: Computational astrophysics, massive stars, high-energy astrophysics
+baseurl: ""
+#url: "https://jmackey-astro.github.io/"
+github_username: jmackey-astro
