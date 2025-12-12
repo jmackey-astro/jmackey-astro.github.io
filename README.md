@@ -1,2 +1,4 @@
 # jmackey-astro.github.io
-info page
+
++ Contact: [jmackey@cp.dias.ie](mailto:jmackey@cp.dias.ie)
++ [Publications](docs/publications.md)
