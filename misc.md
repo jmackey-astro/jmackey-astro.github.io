@@ -1,7 +1,7 @@
 **Jonathan Mackey > Miscellaneous**
 -----------------------------------
 
-Miscellaneous computing stuff that I keep forgetting...
+Miscellaneous computing stuff
 ---------------------------------------------------------
 
 * [Batch job submission with SLURM](slurm.html "slurm.html"): list of useful commands to help figure out what is going on with your jobs on a supercomputer.
@@ -20,7 +20,7 @@ Miscellaneous computing stuff that I keep forgetting...
 SSH tips
 --------
 
-* **ssh config file**
+* **ssh config file**  
   Here is an example config file in ~/.ssh/config:
 
   ```
@@ -71,7 +71,8 @@ SSH tips
   If you need to use a non-standard ssh port, then you can specify a different port number.
     
   See [this tutorial](http://sshmenu.sourceforge.net/articles/transparent-mulithop.html "http://sshmenu.sourceforge.net/articles/transparent-mulithop.html") for further details.
-* **Setting up a tunnel back to the local machine**
+
+* **Setting up a tunnel back to the local machine**  
   This is useful if you connect to a computer that doesn't allow any outgoing ssh connections to the outside world (only incoming connections).
   When you login to the remote computer (remote.remotedomain.com, username remoteuser), you can open a tunnel to the local computer (local.domain.com, username localuser, port 1234) as follows:
 
@@ -84,7 +85,8 @@ SSH tips
   ```
   ssh localuser@localhost:22424
   ```
-* **using FUSE to mount remote filesystems**
+
+* **using FUSE to mount remote filesystems**  
   SSHFS is a nice package for accessing remote filesystems on a local computer.
   You can install it (on debian/ubuntu linux) with
 
@@ -129,21 +131,23 @@ SSH tips
 Shell scripts
 -------------
 
-* **Deleting text between two identifiers in a file** (found [here](http://www.cyberciti.biz/faq/sed-howto-remove-lines-paragraphs/ "http://www.cyberciti.biz/faq/sed-howto-remove-lines-paragraphs/")), which can be useful for generating clean source code without all of the debugging ifdefs.
+* **Deleting text between two identifiers in a file**  
+  (found [here](http://www.cyberciti.biz/faq/sed-howto-remove-lines-paragraphs/ "http://www.cyberciti.biz/faq/sed-howto-remove-lines-paragraphs/")), which can be useful for generating clean source code without all of the debugging ifdefs.
 
   ```
   sed '/\#ifdef DEBUGGING/,/\#endif/d' file.cpp > output.cpp
   ```
 
   This can of course get confused if you have nested ifdefs...
-* **Replace text in a variable:**
+* **Replace text in a variable:**  
   If FILE=hello.png is a PNG image, and you want to convert to an image called hello.eps, then you can do this:
 
   ```
   IMGFILE=`echo $FILE | sed 's/png/eps/'`
         convert $FILE eps3:$IMGFILE
   ```
-* **Fixed number of digits in a filename:** If you are generating a sequence of files, and want them numbered with a counter with exactly N digits, you can use this:
+* **Fixed number of digits in a filename:**  
+  If you are generating a sequence of files, and want them numbered with a counter with exactly N digits, you can use this:
 
   ```
         $ BASE=myfilename
@@ -162,7 +166,8 @@ Shell scripts
         myfilename_009.tif
         myfilename_010.tif
   ```
-* **Multiplying floating point numbers:** unfortunately bash and other shell scripts can only do integer arithmetic, so for floating point operations you need to use another tool, such as 'bc'. The following line divides 10 by 3.0 using 'bc'; the 'scale=2' command indicates the calculation should be performed to at least two decimal places.
+* **Multiplying floating point numbers:**  
+  unfortunately bash and other shell scripts can only do integer arithmetic, so for floating point operations you need to use another tool, such as 'bc'. The following line divides 10 by 3.0 using 'bc'; the 'scale=2' command indicates the calculation should be performed to at least two decimal places.
 
   ```
   $ ii=10; FLT=$(echo "scale=2; $ii/3.0" | bc); echo $FLT
@@ -178,7 +183,8 @@ Imagemagick
 
 [Imagemagick](http://www.imagemagick.org/ "http://www.imagemagick.org/") is a very useful tool for converting figures between formats, cropping borders, shrinking images, etc., and it has a command-line interface so you can put it in scripts. Here are some examples I find useful (most of them taken from the imagemagick website examples).
 
-* **Convert eps to jpeg** (I think density is dots-per-inch, and quality is the jpeg quality flag; density is most important for figures):
+* **Convert eps to jpeg**  
+  (I think density is dots-per-inch, and quality is the jpeg quality flag; density is most important for figures):
 
   ```
         $ convert -density 300 -quality 100 file.eps file.jpeg
@@ -186,13 +192,16 @@ Imagemagick
   ```
 
   The geometry tag sets the size of the output image, and I think it's a good idea to set it to be a multiple or fraction of the eps bounding box (from `head image.eps | grep BoundingBox'). The default (I think) is to set them to be the same.
-* **Crop an image**: the first two numbers are the number of pixels in the output, and the last two are the x and y offsets from the top left corner to start the cropping from. Putting an exclamation mark at the end of the geometry item resets the new image origin to the top left corner of the new image (otherwise it stays relative to the old one!).
+
+* **Crop an image**  
+  the first two numbers are the number of pixels in the output, and the last two are the x and y offsets from the top left corner to start the cropping from. Putting an exclamation mark at the end of the geometry item resets the new image origin to the top left corner of the new image (otherwise it stays relative to the old one!).
 
   ```
         $ convert -crop 955x325+175+225 input_file.tif output_file.tif
         $ convert -crop 955x325+175+225! input_file.tif output_file.tif
   ```
-* **Annotate an image**:
+
+* **Annotate an image**  
   pointsize refers to the size of the text; annotate gives the offsets from the top left (of the original image if you cropped it!) to start writing, and the text is in single quotes.
 
   ```
@@ -252,9 +261,6 @@ Unix Commands
   ```
   find . -type f -name "FILE-TO-FIND" -exec rm -f {} \;
   ```
-
-
-
 
 
 LaTeX
@@ -317,8 +323,10 @@ LaTeX
   \end{enumerate}
   ```
 
-Mac OSX collection of useful things
+Mac OSX bits and pieces
 -----------------------------------
+
+* **install homebrew** from [brew.sh](https://brew.sh/)
 
 * **sed:**
   Sed works differents on OS X for some reason.
