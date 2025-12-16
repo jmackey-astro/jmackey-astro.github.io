@@ -1,4 +1,11 @@
-# Welcome
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: Jonathan Mackey
+---
+
 
 + Contact: [jmackey@cp.dias.ie](mailto:jmackey@cp.dias.ie)
 + Research:
