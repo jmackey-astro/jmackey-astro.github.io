@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Jonathan Mackey
 ---
 
+# Jonathan Mackey - Welcome
 
 + Contact: [jmackey@cp.dias.ie](mailto:jmackey@cp.dias.ie)
 + Research:
