@@ -223,6 +223,7 @@ Refereed Publications
     ([DOI:10.3847/2041-8213/ad5e67](https://doi.org/10.3847/2041-8213/ad5e67 "https://doi.org/10.3847/2041-8213/ad5e67"), 
     [arXiv:2407.16219](https://arxiv.org/abs/2407.16219 "https://arxiv.org/abs/2407.16219"), 
     [ADS record](https://scixplorer.org/abs/2024ApJ...970L..21A/abstract "https://scixplorer.org/abs/2024ApJ...970L..21A/abstract"))
+
 26. *"H.E.S.S. observations of the 2021 periastron passage of PSR B1259-63/LS 2883"*  
     H.E.S.S. Collaboration,  
     2024, *Astronomy & Astrophysics*, **687**, A219.  
