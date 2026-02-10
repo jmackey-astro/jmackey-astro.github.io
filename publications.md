@@ -23,7 +23,7 @@ Refereed Publications
 
 1. *"Interacting supernovae and where to find them"*  
    R. Brose, I. Sushch, J. Mackey, M. Arias  
-   2026, Astronomy & Astrophysics, **706**, A82
+   2026, Astronomy & Astrophysics, **706**, A82  
    ([DOI:10.1051/0004-6361/202555671](https://doi.org/10.1051/0004-6361/202555671 "https://doi.org/10.1051/0004-6361/202555671"),
     [arXiv:2510.19446](https://arxiv.org/abs/2510.19446 "https://arxiv.org/abs/2510.19446"), 
     [ADS record](https://scixplorer.org/abs/2025arXiv251019446B/ "https://scixplorer.org/abs/2025arXiv251019446B/"))
@@ -37,7 +37,7 @@ Refereed Publications
 
 1. *"A targeted radio survey of infrared-selected bow shock candidates"*  
     M. Moutzouri, J. Mackey, N. Castro, et al.  
-    2025, Astronomy & Astrophysics, **704**, A268
+    2025, Astronomy & Astrophysics, **704**, A268  
     ([DOI:10.1051/0004-6361/202557036](https://doi.org/10.1051/0004-6361/202557036 "https://doi.org/10.1051/0004-6361/202557036"),
     [arXiv:2510.23470](https://arxiv.org/abs/2510.23470 "https://arxiv.org/abs/2510.23470"), 
     [ADS record](https://scixplorer.org/abs/2025arXiv251023470M/ "https://scixplorer.org/abs/2025arXiv251023470M/"))
