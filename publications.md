@@ -23,24 +23,24 @@ Refereed Publications
 
 1. *"Interacting supernovae and where to find them"*  
    R. Brose, I. Sushch, J. Mackey, M. Arias  
-   2025, Astronomy & Astrophysics, **in press**  
+   2026, Astronomy & Astrophysics, **706**, A82
    ([DOI:10.1051/0004-6361/202555671](https://doi.org/10.1051/0004-6361/202555671 "https://doi.org/10.1051/0004-6361/202555671"),
     [arXiv:2510.19446](https://arxiv.org/abs/2510.19446 "https://arxiv.org/abs/2510.19446"), 
     [ADS record](https://scixplorer.org/abs/2025arXiv251019446B/ "https://scixplorer.org/abs/2025arXiv251019446B/"))
 
-1. *"A targeted radio survey of infrared-selected bow shock candidates"*  
-    M. Moutzouri, J. Mackey, N. Castro, et al.  
-    2025, Astronomy & Astrophysics, **in press**  
-    ([DOI:10.1051/0004-6361/202557036](https://doi.org/10.1051/0004-6361/202557036 "https://doi.org/10.1051/0004-6361/202557036"),
-    [arXiv:2510.23470](https://arxiv.org/abs/2510.23470 "https://arxiv.org/abs/2510.23470"), 
-    [ADS record](https://scixplorer.org/abs/2025arXiv251023470M/ "https://scixplorer.org/abs/2025arXiv251023470M/"))
-
 1. *"Constraining the nature of the most extreme Galactic particle accelerator: H.E.S.S. observations of the microquasar V4641 Sgr"*  
    H.E.S.S. Collaboration  
-   2025, Astronomy & Astrophysics, **in press**  
+   2026, Astronomy & Astrophysics, **706**, A8  
    ([DOI:10.1051/0004-6361/202557532](https://doi.org/10.1051/0004-6361/202557532 "https://doi.org/10.1051/0004-6361/202557532"),
     [arXiv:2511.10537](https://arxiv.org/abs/2511.10537 "https://arxiv.org/abs/2511.10537"), 
     [ADS record](https://scixplorer.org/abs/2025arXiv251110537A/ "https://scixplorer.org/abs/2025arXiv251110537A/"))
+
+1. *"A targeted radio survey of infrared-selected bow shock candidates"*  
+    M. Moutzouri, J. Mackey, N. Castro, et al.  
+    2025, Astronomy & Astrophysics, **704**, A268
+    ([DOI:10.1051/0004-6361/202557036](https://doi.org/10.1051/0004-6361/202557036 "https://doi.org/10.1051/0004-6361/202557036"),
+    [arXiv:2510.23470](https://arxiv.org/abs/2510.23470 "https://arxiv.org/abs/2510.23470"), 
+    [ADS record](https://scixplorer.org/abs/2025arXiv251023470M/ "https://scixplorer.org/abs/2025arXiv251023470M/"))
 
 1. *"Prospects for dark matter observations in dwarf spheroidal galaxies with the Cherenkov Telescope Array Observatory"*  
    CTAO Consortium  

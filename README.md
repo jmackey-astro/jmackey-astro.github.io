@@ -1,4 +1,4 @@
-# Jonathan Mackey - Welcome
+# Jonathan Mackey
 
 + Contact: [jmackey@cp.dias.ie](mailto:jmackey@cp.dias.ie)
 + Research:
