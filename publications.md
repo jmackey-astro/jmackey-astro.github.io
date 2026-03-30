@@ -21,9 +21,10 @@ Refereed Publications
     [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
 -->
 
+
 1. *"EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?"*  
    C. J. K. Larkin, J. Mackey, H. Jin, et al.,  
-   2026, Astronomy & Astrophysics, **submitted**,  
+   2026, Astronomy & Astrophysics, **accepted**,  
    ([DOI:](https://doi.org/ "https://doi.org/"),
     [arXiv:2601.21788](https://arxiv.org/abs/2601.21788 "https://arxiv.org/abs/2601.21788"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260121788L/ "https://scixplorer.org/abs/2026arXiv260121788L/"))
@@ -55,6 +56,13 @@ Refereed Publications
    ([DOI:](https://doi.org/ "https://doi.org/"),
     [arXiv:2602.14640](https://arxiv.org/abs/2602.14640 "https://arxiv.org/abs/2602.14640"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260214640A/ "https://scixplorer.org/abs/2026arXiv260214640A/"))
+
+1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
+   H.E.S.S. Collaboration  
+   2026, Journal of High Energy Astrophysics, **53**, 100599   
+   ([DOI:10.1016/j.jheap.2026.100599](https://doi.org/10.1016/j.jheap.2026.100599 "https://doi.org/10.1016/j.jheap.2026.100599"),
+    [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
 
 1. *"Prompt Searches for Very-high-energy Gamma-Ray Counterparts to IceCube Astrophysical Neutrino Alerts"*
    Abhir et al, (FACT, H.E.S.S., MAGIC, VERITAS, Fermi-LAT and IceCube Collaborations)  
