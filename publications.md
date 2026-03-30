@@ -64,7 +64,7 @@ Refereed Publications
     [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
 
-1. *"Prompt Searches for Very-high-energy Gamma-Ray Counterparts to IceCube Astrophysical Neutrino Alerts"*
+1. *"Prompt Searches for Very-high-energy Gamma-Ray Counterparts to IceCube Astrophysical Neutrino Alerts"*  
    Abhir et al, (FACT, H.E.S.S., MAGIC, VERITAS, Fermi-LAT and IceCube Collaborations)  
    2026, The Astrophysical Journal, **997**, id.141  
    ([DOI:10.3847/1538-4357/ae2c4e](https://doi.org/10.3847/1538-4357/ae2c4e "https://doi.org/10.3847/1538-4357/ae2c4e"),
