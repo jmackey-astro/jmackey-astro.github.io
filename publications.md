@@ -40,22 +40,22 @@ Refereed Publications
    H.E.S.S. Collaboration  
    2026, Astronomy & Astrophysics, **accepted**,   
    ([DOI:](https://doi.org/ "https://doi.org/"),
-    [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
-    [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
-
-1. *"The second H.E.S.S. gamma-ray burst catalogue: 15 years of observations with the H.E.S.S. telescopes"*  
-   H.E.S.S. Collaboration  
-   2026, Astronomy & Astrophysics, **in press**,   
-   ([DOI:](https://doi.org/ "https://doi.org/"),
-    [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
-    [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
+    [arXiv:2603.21912](https://arxiv.org/abs/2603.21912 "https://arxiv.org/abs/2603.21912"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260321912H/ "https://scixplorer.org/abs/2026arXiv260321912H/"))
 
 1. *"H.E.S.S. detection of the PSR J0855-4644 nebula"*  
    H.E.S.S. Collaboration  
-   2026, Astronomy & Astrophysics, **in press**,   
-   ([DOI:](https://doi.org/ "https://doi.org/"),
+   2026, Astronomy & Astrophysics, **708**, A6  
+   ([DOI:10.1051/0004-6361/202558346](https://doi.org/10.1051/0004-6361/202558346 "https://doi.org/10.1051/0004-6361/202558346"),
     [arXiv:2602.14640](https://arxiv.org/abs/2602.14640 "https://arxiv.org/abs/2602.14640"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260214640A/ "https://scixplorer.org/abs/2026arXiv260214640A/"))
+
+1. *"The second H.E.S.S. gamma-ray burst catalogue: 15 years of observations with the H.E.S.S. telescopes"*  
+   H.E.S.S. Collaboration  
+   2026, Astronomy & Astrophysics, **707**, A382  
+   ([DOI:10.1051/0004-6361/202555942](https://doi.org/10.1051/0004-6361/202555942 "https://doi.org/10.1051/0004-6361/202555942"),
+    [arXiv:2603.21741](https://arxiv.org/abs/2603.21741 "https://arxiv.org/abs/2603.21741"), 
+    [ADS record](https://scixplorer.org/abs/2026A%26A...707A.382A/ "https://scixplorer.org/abs/2026A%26A...707A.382A/"))
 
 1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
    H.E.S.S. Collaboration  
