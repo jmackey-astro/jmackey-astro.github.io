@@ -522,7 +522,7 @@ Refereed Publications
 
 60. *"Observation of the gamma-ray binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS telescopes"*  
     H.E.S.S./MAGIC/VERITAS Collaborations,  
-    2021, The Astrophysical Journal, **923**, 241.
+    2021, The Astrophysical Journal, **923**, 241.  
     ([DOI:10.3847/1538-4357/ac29b7](https://doi.org/10.3847/1538-4357/ac29b7 "https://doi.org/10.3847/1538-4357/ac29b7"), 
     [arXiv:2109.11894](https://arxiv.org/abs/2109.11894 "https://arxiv.org/abs/2109.11894"), 
     [ADS record](https://scixplorer.org/abs/2021arXiv210911894A/abstract "https://scixplorer.org/abs/2021arXiv210911894A/abstract"))
@@ -587,7 +587,7 @@ Refereed Publications
     H.E.S.S. Collaboration,  
     2021, The Astrophysical Journal Letters, **911**, L11.  
     ([DOI:10.3847/2041-8213/abef71](https://doi.org/10.3847/2041-8213/abef71 "https://doi.org/10.3847/2041-8213/abef71"), 
-    arXiv, 
+    [arXiv:2104.06855](https://arxiv.org/abs/2104.06855 "https://arxiv.org/abs/2104.06855"), 
     [ADS record](https://scixplorer.org/abs/2021ApJ...911L..11E/abstract "https://scixplorer.org/abs/2021ApJ...911L..11E/abstract"))
 
 70. *"Magnetic fields and Star Formation around HII regions: The S235 complex"*  
@@ -628,7 +628,7 @@ Refereed Publications
 75. *"Simultaneous observations of the blazar PKS2155-304 from Ultra-Violet to TeV energies"*  
     H.E.S.S. Collaboration,  
     2020, Astronomy & Astrophysics, **639**, A42.  
-    ([DOI](https://doi.org/10.1051/0004-6361/201936900 "https://doi.org/10.1051/0004-6361/201936900"), 
+    ([DOI:10.1051/0004-6361/201936900](https://doi.org/10.1051/0004-6361/201936900 "https://doi.org/10.1051/0004-6361/201936900"), 
     [arXiv:1912.07273](https://arxiv.org/abs/1912.07273 "https://arxiv.org/abs/1912.07273"), 
     [ADS record](https://scixplorer.org/abs/2019arXiv191207273H/abstract "https://scixplorer.org/abs/2019arXiv191207273H/abstract"))
 
@@ -636,6 +636,7 @@ Refereed Publications
     H.E.S.S. Collaboration,  
     2020, Nature, **582**, 356.  
     ([DOI:10.1038/s41586-020-2354-1](https://doi.org/10.1038/s41586-020-2354-1 "https://doi.org/10.1038/s41586-020-2354-1"), 
+    [arXiv:2007.04823](https://arxiv.org/abs/2007.04823 "https://arxiv.org/abs/2007.04823"),
     [ADS record](https://scixplorer.org/abs/2020Natur.582..356H/abstract "https://scixplorer.org/abs/2020Natur.582..356H/abstract"))
 
 77. *"Probing the Magnetic Field in the GW170817 Outflow Using H.E.S.S. Observations"*  
@@ -910,9 +911,11 @@ Conference Proceedings, Book Chapters and other Publications
 ------------------------------------------------------------
 
 1. *"H.E.S.S. observations of SN 2024ggi"*  
-   J. Borowska-Naguszewska, R. Brose, B. Cornejo, J. Mackey, R.D. Parsons, F. Sch\"ussler, for the H.E.S.S. Collaboration  
+   J. Borowska-Naguszewska, R. Brose, B. Cornejo, J. Mackey, R.D. Parsons, F. Schüssler, for the H.E.S.S. Collaboration  
    2025, *Proceedings of Science*, **501**, 576 -- 39th International Cosmic Ray Conference (ICRC2025)  
-   ([arxiv:2510.02796](https://arxiv.org/abs/2510.02796))
+   ([DOI:10.22323/1.501.0576](https://doi.org/10.22323/1.501.0576), 
+   [arxiv:2510.02796](https://arxiv.org/abs/2510.02796), 
+   [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251002796B/abstract))
 
 1. *"[PION: Simulating bow shocks and circumstellar nebulae around massive stars](https://doi.org/10.1017/S174392132200254X "https://doi.org/10.1017/S174392132200254X")"*  
    J. Mackey, S. Green, M. Moutzouri, et al.,  
@@ -938,7 +941,7 @@ Conference Proceedings, Book Chapters and other Publications
 5. *"Interaction between massive star winds and the interstellar medium"*  
    J. Mackey,  
    2022, Invited Review at IAU Symposium 370: Winds from stars and exoplanets (Eds. Aline Vidotto, Luca Fossati and Jorick Vink),  
-   (DOI, 
+   ([DOI:10.1017/S1743921322004501](https://doi.org/10.1017/S1743921322004501 "https://doi.org/10.1017/S1743921322004501"), 
    [arXiv:2211.08808](https://arxiv.org/abs/2211.08808 "https://arxiv.org/abs/2211.08808"), 
    [ADS record](https://scixplorer.org/abs/2022arXiv221108808M/abstract "https://scixplorer.org/abs/2022arXiv221108808M/abstract"))
 
