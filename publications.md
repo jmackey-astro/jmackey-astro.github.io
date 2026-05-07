@@ -21,6 +21,26 @@ Refereed Publications
     [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
 -->
 
+1. *"Evolution of wide O star binaries through their LBV stage. Population synthesis with mass-ejection-driven orbital evolution"*  
+   X.-T. Xu, P. Podsiadlowski, N. Langer, ..., J. Mackey, *et al.*,  
+   2026, Astronomy & Astrophysics, **submitted**,
+   ([DOI:](https://doi.org/ "https://doi.org/"),
+    [arXiv:2603.14840](https://arxiv.org/abs/2603.14840 "https://arxiv.org/abs/2603.14840"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260314840X/ "https://scixplorer.org/abs/2026arXiv260314840X/"))
+
+1. *"Impact of Cosmic Ray Acceleration on the Early Evolution of Bow Shocks around Massive Runaway Stars"*  
+  K. Watanabe, S. Walch, T.-E. Rathjen, J. Mackey *et al.*,  
+  2025, Astronomy & Astrophysics, **submitted**,
+   ([DOI:](https://doi.org/ "https://doi.org/"),
+    [arXiv:2510.11988](https://arxiv.org/abs/2510.11988 "https://arxiv.org/abs/2510.11988"), 
+    [ADS record](https://scixplorer.org/abs/2025arXiv251011988W/ "https://scixplorer.org/abs/2025arXiv251011988W/"))
+
+1. *"Multi-Dimensional MHD simulations of young Core-Collapse Supernova Remnants"*  
+  C.J.K. Larkin, J. Mackey, B. Reville, *et al.*,  
+  2026, Astronomy & Astrophysics, **accepted**,
+  ([DOI:](https://doi.org/ "https://doi.org/"),
+  [arXiv:2605.04940](https://arxiv.org/abs/2605.04940 "https://arxiv.org/abs/2605.04940"), 
+  [ADS record](https://scixplorer.org/abs/2026arXiv260504940L/ "https://scixplorer.org/abs/2026arXiv260504940L/"))
 
 1. *"Radio detection of supernova remnant G310.7-5.4 with -ray counterpart: Abeona SNR"*  
    C. Burger-Scheidlin, B.D. Ball, S. Lazarevic, ..., J. Mackey, et al.,  
@@ -29,7 +49,6 @@ Refereed Publications
     [arXiv:2604.19897](https://arxiv.org/abs/2604.19897 "https://arxiv.org/abs/2604.19897"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260419897B/ "https://scixplorer.org/abs/2026arXiv260419897B/"))
 
-
 1. *"EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?"*  
    C. J. K. Larkin, J. Mackey, H. Jin, et al.,  
    2026, Astronomy & Astrophysics, **accepted**,  
@@ -37,19 +56,33 @@ Refereed Publications
     [arXiv:2601.21788](https://arxiv.org/abs/2601.21788 "https://arxiv.org/abs/2601.21788"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260121788L/ "https://scixplorer.org/abs/2026arXiv260121788L/"))
 
-1. *"Search for long-term variability of HESS J1745-290"*  
-   H.E.S.S. Collaboration  
-   2026, Astronomy & Astrophysics, **accepted**,   
-   ([DOI:](https://doi.org/ "https://doi.org/"),
-    [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
-    [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
-
 1. *"H.E.S.S. observations of composite Seyfert–starburst galaxies"*  
    H.E.S.S. Collaboration  
    2026, Astronomy & Astrophysics, **accepted**,   
    ([DOI:](https://doi.org/10.1051/0004-6361/202555824 "https://doi.org/10.1051/0004-6361/202555824"),
     [arXiv:2603.21912](https://arxiv.org/abs/2603.21912 "https://arxiv.org/abs/2603.21912"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260321912H/ "https://scixplorer.org/abs/2026arXiv260321912H/"))
+
+1. *"Search for long-term variability of HESS J1745-290"*  
+   H.E.S.S. Collaboration  
+   2026, Astronomy & Astrophysics, **709**, A96   
+   ([DOI:10.1051/0004-6361/202557676](https://doi.org/10.1051/0004-6361/202557676 "https://doi.org/10.1051/0004-6361/202557676"),
+    [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
+    [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
+
+1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
+   H.E.S.S. Collaboration  
+   2026, Journal of High Energy Astrophysics, **53**, 100599   
+   ([DOI:10.1016/j.jheap.2026.100599](https://doi.org/10.1016/j.jheap.2026.100599 "https://doi.org/10.1016/j.jheap.2026.100599"),
+    [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
+
+2. *"Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS"*  
+   LAT, HAWC, H.E.S.S., MAGIC and VERITAS Collaborations,  
+   2026, Journal of Cosmology and Astroparticle Physics, **03**, 035.  
+   ([DOI:10.1088/1475-7516/2026/03/035](https://doi.org/10.1088/1475-7516/2026/03/035 "https://doi.org/10.1088/1475-7516/2026/03/035"), 
+   [arXiv:2508.20229](https://arxiv.org/abs/2508.20229 "https://arxiv.org/abs/2508.20229"), 
+   [ADS record](https://scixplorer.org/abs/2025arXiv250820229L/ "https://scixplorer.org/abs/2025arXiv250820229L/"))
 
 1. *"H.E.S.S. detection of the PSR J0855-4644 nebula"*  
    H.E.S.S. Collaboration  
@@ -65,20 +98,12 @@ Refereed Publications
     [arXiv:2603.21741](https://arxiv.org/abs/2603.21741 "https://arxiv.org/abs/2603.21741"), 
     [ADS record](https://scixplorer.org/abs/2026A%26A...707A.382A/ "https://scixplorer.org/abs/2026A%26A...707A.382A/"))
 
-1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
-   H.E.S.S. Collaboration  
-   2026, Journal of High Energy Astrophysics, **53**, 100599   
-   ([DOI:10.1016/j.jheap.2026.100599](https://doi.org/10.1016/j.jheap.2026.100599 "https://doi.org/10.1016/j.jheap.2026.100599"),
-    [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
-    [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
-
-1. *"Prompt Searches for Very-high-energy Gamma-Ray Counterparts to IceCube Astrophysical Neutrino Alerts"*  
-   Abhir et al, (FACT, H.E.S.S., MAGIC, VERITAS, Fermi-LAT and IceCube Collaborations)  
-   2026, The Astrophysical Journal, **997**, id.141  
-   ([DOI:10.3847/1538-4357/ae2c4e](https://doi.org/10.3847/1538-4357/ae2c4e "https://doi.org/10.3847/1538-4357/ae2c4e"),
-    [arXiv:2512.16562](https://arxiv.org/abs/2512.16562 "https://arxiv.org/abs/2512.16562"), 
-    [SciX record](https://scixplorer.org/abs/2026ApJ...997..141A/ "https://scixplorer.org/abs/2026ApJ...997..141A/"))
-
+1. *"Interacting supernovae and where to find them"*  
+   R. Brose, I. Sushch, J. Mackey, M. Arias  
+   2026, Astronomy & Astrophysics, **706**, A82  
+   ([DOI:10.1051/0004-6361/202555671](https://doi.org/10.1051/0004-6361/202555671 "https://doi.org/10.1051/0004-6361/202555671"),
+    [arXiv:2510.19446](https://arxiv.org/abs/2510.19446 "https://arxiv.org/abs/2510.19446"), 
+    [ADS record](https://scixplorer.org/abs/2025arXiv251019446B/ "https://scixplorer.org/abs/2025arXiv251019446B/"))
 
 1. *"H.E.S.S. detection and multi-wavelength study of the z ∼ 1 blazar PKS 0346-27"*  
    H.E.S.S. Collaboration  
@@ -87,12 +112,13 @@ Refereed Publications
     [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
     [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
 
-1. *"Interacting supernovae and where to find them"*  
-   R. Brose, I. Sushch, J. Mackey, M. Arias  
-   2026, Astronomy & Astrophysics, **706**, A82  
-   ([DOI:10.1051/0004-6361/202555671](https://doi.org/10.1051/0004-6361/202555671 "https://doi.org/10.1051/0004-6361/202555671"),
-    [arXiv:2510.19446](https://arxiv.org/abs/2510.19446 "https://arxiv.org/abs/2510.19446"), 
-    [ADS record](https://scixplorer.org/abs/2025arXiv251019446B/ "https://scixplorer.org/abs/2025arXiv251019446B/"))
+1. *"Prompt Searches for Very-high-energy Gamma-Ray Counterparts to IceCube Astrophysical Neutrino Alerts"*  
+   Abhir et al, (FACT, H.E.S.S., MAGIC, VERITAS, Fermi-LAT and IceCube Collaborations)  
+   2026, The Astrophysical Journal, **997**, id.141  
+   ([DOI:10.3847/1538-4357/ae2c4e](https://doi.org/10.3847/1538-4357/ae2c4e "https://doi.org/10.3847/1538-4357/ae2c4e"),
+    [arXiv:2512.16562](https://arxiv.org/abs/2512.16562 "https://arxiv.org/abs/2512.16562"), 
+    [SciX record](https://scixplorer.org/abs/2026ApJ...997..141A/ "https://scixplorer.org/abs/2026ApJ...997..141A/"))
+
 
 1. *"Constraining the nature of the most extreme Galactic particle accelerator: H.E.S.S. observations of the microquasar V4641 Sgr"*  
    H.E.S.S. Collaboration  
@@ -121,13 +147,6 @@ Refereed Publications
    ([DOI:10.1051/0004-6361/202557130](https://doi.org/10.1051/0004-6361/202557130 "https://doi.org/10.1051/0004-6361/202557130"),
     [arXiv:2510.06100](https://arxiv.org/abs/2510.06100 "https://arxiv.org/abs/2510.06100"), 
     [ADS record](https://scixplorer.org/abs/2025arXiv251006100L/ "https://scixplorer.org/abs/2025arXiv251006100L/"))
-
-2. *"Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS"*  
-   LAT, HAWC, H.E.S.S., MAGIC and VERITAS Collaborations,  
-   2025, Journal of Cosmology and Astroparticle Physics, accepted.  
-   ([DOI:](https://doi.org/ "https://doi.org/"), 
-   [arXiv:2508.20229](https://arxiv.org/abs/2508.20229 "https://arxiv.org/abs/2508.20229"), 
-   [ADS record](https://scixplorer.org/abs/2025arXiv250820229L/ "https://scixplorer.org/abs/2025arXiv250820229L/"))
 
 3. *"A high fraction of close massive binary stars at low metallicity"*  
    H. Sana, T. Shenar, ..., J. Mackey, et al.,  
@@ -932,6 +951,30 @@ Conference Proceedings, Book Chapters and other Publications
    ([DOI:10.22323/1.501.0576](https://doi.org/10.22323/1.501.0576), 
    [arxiv:2510.02796](https://arxiv.org/abs/2510.02796), 
    [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251002796B/abstract))
+
+1. *"Radio detection of SNR G310.7-5.4 with gamma-ray counterpart"*  
+   C. Burger-Scheidlin, B.D. Ball, S. Lazarevic, ..., J. Mackey, *et al.*,  
+   2025, *Proceedings of Science*, **501**, 588 -- 39th International Cosmic Ray Conference (ICRC2025)  
+   ([DOI:10.22323/1.501.0588](https://doi.org/10.22323/1.501.0588), 
+   [arxiv:](https://arxiv.org/abs/), 
+   [ADS](https://ui.adsabs.harvard.edu/abs/2025icrc.confE.588B))
+
+1. *"Detecting Gamma-Rays from the Ancora Supernova Remnant"*,  
+   C. Burger-Scheidlin, R. Brose, J. Mackey *et al.*,  
+   2024, Revista Mexicana de Astronomía y Astrofísica (Serie de Conferencias) Vol. 58, pp. 51-53  
+   ([DOI:10.22201/ia.14052059p.2024.58.17](https://doi.org/10.22201/ia.14052059p.2024.58.17), 
+   [ADS](https://ui.adsabs.harvard.edu/abs/2024RMxAC..58...51B))
+
+1. *"Wind-Blown Nebulae from Massive Stars"*,  
+   J. Mackey, 2024, Revista Mexicana de Astronomía y Astrofísica (Serie de Conferencias) Vol. 58, pp. 16-18  
+   ([DOI:10.22201/ia.14052059p.2024.58.05](https://doi.org/10.22201/ia.14052059p.2024.58.05), 
+   [ADS](https://scixplorer.org/abs/2024RMxAC..58...16M/abstract)
+
+1. *"Implementation of Multi-Ion Chemical Kinetics for Circumstellar Nebulae"*,  
+   A. Mathew & J. Mackey, 2024, Revista Mexicana de Astronomía y Astrofísica (Serie de Conferencias) Vol. 58, pp. 19-21  
+   ([DOI:10.22201/ia.14052059p.2024.58.06](https://doi.org/10.22201/ia.14052059p.2024.58.06), 
+   [ADS](https://scixplorer.org/abs/2024RMxAC..58...19M/abstract)
+
 
 1. *"[PION: Simulating bow shocks and circumstellar nebulae around massive stars](https://doi.org/10.1017/S174392132200254X "https://doi.org/10.1017/S174392132200254X")"*  
    J. Mackey, S. Green, M. Moutzouri, et al.,  
