@@ -22,6 +22,14 @@ Refereed Publications
 -->
 
 
+1. *"Radio detection of supernova remnant G310.7-5.4 with -ray counterpart: Abeona SNR"*  
+   C. Burger-Scheidlin, B.D. Ball, S. Lazarevic, ..., J. Mackey, et al.,  
+   2026, Astronomy & Astrophysics, **accepted**,  
+   ([DOI:](https://doi.org/ "https://doi.org/"),
+    [arXiv:2604.19897](https://arxiv.org/abs/2604.19897 "https://arxiv.org/abs/2604.19897"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260419897B/ "https://scixplorer.org/abs/2026arXiv260419897B/"))
+
+
 1. *"EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?"*  
    C. J. K. Larkin, J. Mackey, H. Jin, et al.,  
    2026, Astronomy & Astrophysics, **accepted**,  
@@ -39,7 +47,7 @@ Refereed Publications
 1. *"H.E.S.S. observations of composite Seyfert–starburst galaxies"*  
    H.E.S.S. Collaboration  
    2026, Astronomy & Astrophysics, **accepted**,   
-   ([DOI:](https://doi.org/ "https://doi.org/"),
+   ([DOI:](https://doi.org/10.1051/0004-6361/202555824 "https://doi.org/10.1051/0004-6361/202555824"),
     [arXiv:2603.21912](https://arxiv.org/abs/2603.21912 "https://arxiv.org/abs/2603.21912"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260321912H/ "https://scixplorer.org/abs/2026arXiv260321912H/"))
 
@@ -909,6 +917,14 @@ Refereed Publications
 
 Conference Proceedings, Book Chapters and other Publications
 ------------------------------------------------------------
+
+
+1. *"SN 2007it on the RISE—A Radio Detection of an Interacting Supernova 18 yr Post-explosion"*  
+   F. Acero, R.Z.E. Alsaberi, M. Arias, ..., J. Mackey, et al. (the RISE Collaboration)  
+   2026, *Research Notes of the AAS*, **10**, 103  
+   ([DOI:10.3847/2515-5172/ae6702](https://doi.org/10.3847/2515-5172/ae6702), 
+   [arXiv:2604.20076](https://arxiv.org/abs/2604.20076),
+   [ADS]())
 
 1. *"H.E.S.S. observations of SN 2024ggi"*  
    J. Borowska-Naguszewska, R. Brose, B. Cornejo, J. Mackey, R.D. Parsons, F. Schüssler, for the H.E.S.S. Collaboration  
