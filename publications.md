@@ -44,21 +44,21 @@ Refereed Publications
 
 1. *"Radio detection of supernova remnant G310.7-5.4 with -ray counterpart: Abeona SNR"*  
    C. Burger-Scheidlin, B.D. Ball, S. Lazarevic, ..., J. Mackey, et al.,  
-   2026, Astronomy & Astrophysics, **accepted**,  
-   ([DOI:](https://doi.org/ "https://doi.org/"),
+   2026, Astronomy & Astrophysics, **in press**,  
+   ([DOI:10.1051/0004-6361/202556840](https://doi.org/10.1051/0004-6361/202556840 "https://doi.org/10.1051/0004-6361/202556840"),
     [arXiv:2604.19897](https://arxiv.org/abs/2604.19897 "https://arxiv.org/abs/2604.19897"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260419897B/ "https://scixplorer.org/abs/2026arXiv260419897B/"))
 
 1. *"EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?"*  
    C. J. K. Larkin, J. Mackey, H. Jin, et al.,  
-   2026, Astronomy & Astrophysics, **accepted**,  
-   ([DOI:](https://doi.org/ "https://doi.org/"),
+   2026, Astronomy & Astrophysics, **in press**,  
+   ([DOI:10.1051/0004-6361/202659205](https://doi.org/10.1051/0004-6361/202659205 "https://doi.org/10.1051/0004-6361/202659205"),
     [arXiv:2601.21788](https://arxiv.org/abs/2601.21788 "https://arxiv.org/abs/2601.21788"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260121788L/ "https://scixplorer.org/abs/2026arXiv260121788L/"))
 
 1. *"H.E.S.S. observations of composite Seyfert–starburst galaxies"*  
    H.E.S.S. Collaboration  
-   2026, Astronomy & Astrophysics, **accepted**,   
+   2026, Astronomy & Astrophysics, **709**, A138  
    ([DOI:](https://doi.org/10.1051/0004-6361/202555824 "https://doi.org/10.1051/0004-6361/202555824"),
     [arXiv:2603.21912](https://arxiv.org/abs/2603.21912 "https://arxiv.org/abs/2603.21912"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260321912H/ "https://scixplorer.org/abs/2026arXiv260321912H/"))
