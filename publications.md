@@ -49,27 +49,6 @@ Refereed Publications
     [arXiv:2604.19897](https://arxiv.org/abs/2604.19897 "https://arxiv.org/abs/2604.19897"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260419897B/ "https://scixplorer.org/abs/2026arXiv260419897B/"))
 
-1. *"EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?"*  
-   C. J. K. Larkin, J. Mackey, H. Jin, et al.,  
-   2026, Astronomy & Astrophysics, **in press**,  
-   ([DOI:10.1051/0004-6361/202659205](https://doi.org/10.1051/0004-6361/202659205 "https://doi.org/10.1051/0004-6361/202659205"),
-    [arXiv:2601.21788](https://arxiv.org/abs/2601.21788 "https://arxiv.org/abs/2601.21788"), 
-    [ADS record](https://scixplorer.org/abs/2026arXiv260121788L/ "https://scixplorer.org/abs/2026arXiv260121788L/"))
-
-1. *"H.E.S.S. observations of composite Seyfert–starburst galaxies"*  
-   H.E.S.S. Collaboration  
-   2026, Astronomy & Astrophysics, **709**, A138  
-   ([DOI:](https://doi.org/10.1051/0004-6361/202555824 "https://doi.org/10.1051/0004-6361/202555824"),
-    [arXiv:2603.21912](https://arxiv.org/abs/2603.21912 "https://arxiv.org/abs/2603.21912"), 
-    [ADS record](https://scixplorer.org/abs/2026arXiv260321912H/ "https://scixplorer.org/abs/2026arXiv260321912H/"))
-
-1. *"Search for long-term variability of HESS J1745-290"*  
-   H.E.S.S. Collaboration  
-   2026, Astronomy & Astrophysics, **709**, A96   
-   ([DOI:10.1051/0004-6361/202557676](https://doi.org/10.1051/0004-6361/202557676 "https://doi.org/10.1051/0004-6361/202557676"),
-    [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
-    [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
-
 1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
    H.E.S.S. Collaboration  
    2026, Journal of High Energy Astrophysics, **53**, 100599   
@@ -77,12 +56,33 @@ Refereed Publications
     [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
 
+1. *"EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?"*  
+   C.J.K. Larkin, J. Mackey, H. Jin, et al.,  
+   2026, Astronomy & Astrophysics, **710**, L9,  
+   ([DOI:10.1051/0004-6361/202659205](https://doi.org/10.1051/0004-6361/202659205 "https://doi.org/10.1051/0004-6361/202659205"),
+    [arXiv:2601.21788](https://arxiv.org/abs/2601.21788 "https://arxiv.org/abs/2601.21788"), 
+    [ADS record](https://scixplorer.org/abs/2026A%26A...710L...9L/ "https://scixplorer.org/abs/2026A%26A...710L...9L/"))
+
+1. *"H.E.S.S. observations of composite Seyfert–starburst galaxies"*  
+   H.E.S.S. Collaboration  
+   2026, Astronomy & Astrophysics, **709**, A138  
+   ([DOI:10.1051/0004-6361/202555824](https://doi.org/10.1051/0004-6361/202555824 "https://doi.org/10.1051/0004-6361/202555824"),
+    [arXiv:2603.21912](https://arxiv.org/abs/2603.21912 "https://arxiv.org/abs/2603.21912"), 
+    [ADS record](https://scixplorer.org/abs/2026A%26A...709A.138H/abstract "https://scixplorer.org/abs/2026A%26A...709A.138H/"))
+
 2. *"Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS"*  
    LAT, HAWC, H.E.S.S., MAGIC and VERITAS Collaborations,  
    2026, Journal of Cosmology and Astroparticle Physics, **03**, 035.  
    ([DOI:10.1088/1475-7516/2026/03/035](https://doi.org/10.1088/1475-7516/2026/03/035 "https://doi.org/10.1088/1475-7516/2026/03/035"), 
    [arXiv:2508.20229](https://arxiv.org/abs/2508.20229 "https://arxiv.org/abs/2508.20229"), 
    [ADS record](https://scixplorer.org/abs/2025arXiv250820229L/ "https://scixplorer.org/abs/2025arXiv250820229L/"))
+
+1. *"Search for long-term variability of HESS J1745-290"*  
+   H.E.S.S. Collaboration  
+   2026, Astronomy & Astrophysics, **709**, A96   
+   ([DOI:10.1051/0004-6361/202557676](https://doi.org/10.1051/0004-6361/202557676 "https://doi.org/10.1051/0004-6361/202557676"),
+    [arXiv:](https://arxiv.org/abs/2605.10827 "https://arxiv.org/abs/2605.10827"), 
+    [ADS record](https://scixplorer.org/abs/2026A%26A...709A..96H/ "https://scixplorer.org/abs/2026A%26A...709A..96H/"))
 
 1. *"H.E.S.S. detection of the PSR J0855-4644 nebula"*  
    H.E.S.S. Collaboration  
@@ -109,8 +109,8 @@ Refereed Publications
    H.E.S.S. Collaboration  
    2026, Astronomy & Astrophysics, **706**, A246  
    ([DOI:10.1051/0004-6361/202557228](https://doi.org/10.1051/0004-6361/202557228 "https://doi.org/10.1051/0004-6361/202557228"),
-    [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
-    [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
+    [arXiv:](https://arxiv.org/abs/2512.24228 "https://arxiv.org/abs/2512.24228"), 
+    [ADS record](https://scixplorer.org/abs/2026A%26A...706A.246H/ "https://scixplorer.org/abs/2026A%26A...706A.246H/"))
 
 1. *"Prompt Searches for Very-high-energy Gamma-Ray Counterparts to IceCube Astrophysical Neutrino Alerts"*  
    Abhir et al, (FACT, H.E.S.S., MAGIC, VERITAS, Fermi-LAT and IceCube Collaborations)  
@@ -132,7 +132,7 @@ Refereed Publications
     2025, Astronomy & Astrophysics, **704**, A268  
     ([DOI:10.1051/0004-6361/202557036](https://doi.org/10.1051/0004-6361/202557036 "https://doi.org/10.1051/0004-6361/202557036"),
     [arXiv:2510.23470](https://arxiv.org/abs/2510.23470 "https://arxiv.org/abs/2510.23470"), 
-    [ADS record](https://scixplorer.org/abs/2025arXiv251023470M/ "https://scixplorer.org/abs/2025arXiv251023470M/"))
+    [ADS record](https://scixplorer.org/abs/2026A%26A...706A...8A/ "https://scixplorer.org/abs/2026A%26A...706A...8A/"))
 
 1. *"Prospects for dark matter observations in dwarf spheroidal galaxies with the Cherenkov Telescope Array Observatory"*  
    CTAO Consortium  
