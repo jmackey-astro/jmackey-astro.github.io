@@ -38,20 +38,20 @@ Refereed Publications
 1. *"Multi-Dimensional MHD simulations of young Core-Collapse Supernova Remnants"*  
   C.J.K. Larkin, J. Mackey, B. Reville, *et al.*,  
   2026, Astronomy & Astrophysics, **accepted**,
-  ([DOI:](https://doi.org/ "https://doi.org/"),
+  ([DOI:10.1051/0004-6361/202557775](https://doi.org/10.1051/0004-6361/202557775 "https://doi.org/10.1051/0004-6361/202557775"),
   [arXiv:2605.04940](https://arxiv.org/abs/2605.04940 "https://arxiv.org/abs/2605.04940"), 
   [ADS record](https://scixplorer.org/abs/2026arXiv260504940L/ "https://scixplorer.org/abs/2026arXiv260504940L/"))
 
 1. *"Radio detection of supernova remnant G310.7-5.4 with -ray counterpart: Abeona SNR"*  
    C. Burger-Scheidlin, B.D. Ball, S. Lazarevic, ..., J. Mackey, et al.,  
-   2026, Astronomy & Astrophysics, **in press**,  
+   2026, Astronomy & Astrophysics, **710**, A308,   
    ([DOI:10.1051/0004-6361/202556840](https://doi.org/10.1051/0004-6361/202556840 "https://doi.org/10.1051/0004-6361/202556840"),
     [arXiv:2604.19897](https://arxiv.org/abs/2604.19897 "https://arxiv.org/abs/2604.19897"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260419897B/ "https://scixplorer.org/abs/2026arXiv260419897B/"))
 
 1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
    H.E.S.S. Collaboration  
-   2026, Journal of High Energy Astrophysics, **53**, 100599   
+   2026, Journal of High Energy Astrophysics, **53**, 100599,   
    ([DOI:10.1016/j.jheap.2026.100599](https://doi.org/10.1016/j.jheap.2026.100599 "https://doi.org/10.1016/j.jheap.2026.100599"),
     [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
