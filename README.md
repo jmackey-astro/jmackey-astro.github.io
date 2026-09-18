@@ -1,6 +1,7 @@
 # Jonathan Mackey
 
 I am a researcher at the University of Cologne, 1st Physics Institute, in the [Theoretical Astrophysics Group](https://astro.uni-koeln.de/computational-astrophysics).
+From 2016-2025 I worked at the Dublin Institute for Advanced Studies in the [Astronomy & Astrophysics Section at Dunsink Observatory](https://dias.ie/astrophysics).
 + Contact: [jmackey1[at]uni-koeln.de](mailto:jmackey1[at]uni-koeln.de)
 + Research:
     + [PION astrophysical fluid-dynamics software](https://www.pion.ie/): lead developer
