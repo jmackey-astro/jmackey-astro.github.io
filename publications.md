@@ -20,13 +20,13 @@ Refereed Publications
     [arXiv:](https://arxiv.org/abs/ "https://arxiv.org/abs/"), 
     [ADS record](https://scixplorer.org/abs// "https://scixplorer.org/abs//"))
 -->
-
-1. *"Evolution of wide O star binaries through their LBV stage. Population synthesis with mass-ejection-driven orbital evolution"*  
-   X.-T. Xu, P. Podsiadlowski, N. Langer, ..., J. Mackey, *et al.*,  
-   2026, Astronomy & Astrophysics, **submitted**,
+1. *"Gamma-Ray Constraints on Heavy Axion-Like-Particle Decays from Fermi-LAT and H.E.S.S. Blazar Spectra"*  
+   H.E.S.S. Collaboration  
+   2026, JCAP, **submitted**,   
    ([DOI:](https://doi.org/ "https://doi.org/"),
-    [arXiv:2603.14840](https://arxiv.org/abs/2603.14840 "https://arxiv.org/abs/2603.14840"), 
-    [ADS record](https://scixplorer.org/abs/2026arXiv260314840X/ "https://scixplorer.org/abs/2026arXiv260314840X/"))
+    [arXiv:2606.11923](https://arxiv.org/abs/2606.11923 "https://arxiv.org/abs/2606.11923"), 
+    [ADS record](https://scixplorer.org/abs//abstract "https://scixplorer.org/abs//"))
+
 
 1. *"Impact of Cosmic Ray Acceleration on the Early Evolution of Bow Shocks around Massive Runaway Stars"*  
   K. Watanabe, S. Walch, T.-E. Rathjen, J. Mackey *et al.*,  
@@ -35,9 +35,46 @@ Refereed Publications
     [arXiv:2510.11988](https://arxiv.org/abs/2510.11988 "https://arxiv.org/abs/2510.11988"), 
     [ADS record](https://scixplorer.org/abs/2025arXiv251011988W/ "https://scixplorer.org/abs/2025arXiv251011988W/"))
 
+
+1. *"EWOCS-VII: Unveiling the faint diffuse X-ray emission in Westerlund 1"*  
+   J.F. Albacete-Colombo, M. Andersen, M. De Becker, J. Mackey, *et al.*,  
+   2026, Astronomy & Astrophysics, **713**, A79,  
+   ([DOI:10.1051/0004-6361/202660124](https://doi.org/10.1051/0004-6361/202660124 "https://doi.org/10.1051/0004-6361/202660124"),
+    [arXiv:2608.21076](https://arxiv.org/abs/2608.21076 "https://arxiv.org/abs/2608.21076"), 
+    [ADS record](https://scixplorer.org/abs/2026A&A...713A..79A/ "https://scixplorer.org/abs/2026A&A...713A..79A/"))
+
+1. *"Evidence for a spectral steepening of the gamma-ray emission from the Galactic Center ridge"*  
+   H.E.S.S. Collaboration  
+   2026, Astronomy & Astrophysics, **in press**,     
+   ([DOI:10.1051/0004-6361/202660040](https://doi.org/10.1051/0004-6361/202660040 "https://doi.org/10.1051/0004-6361/202660040"),
+    [arXiv:2608.25946](https://arxiv.org/abs/2608.25946 "https://arxiv.org/abs/2608.25946"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260825946A "https://scixplorer.org/abs/2026arXiv260825946A/"))
+
+
+1. *"Evolution of wide O star binaries through their LBV stage. Population synthesis with mass-ejection-driven orbital evolution"*  
+   X.-T. Xu, P. Podsiadlowski, N. Langer, ..., J. Mackey, *et al.*,  
+   2026, Astronomy & Astrophysics, **712**, A118,  
+   ([DOI:](https://doi.org/ "https://doi.org/"),
+    [arXiv:2603.14840](https://arxiv.org/abs/2603.14840 "https://arxiv.org/abs/2603.14840"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260314840X/ "https://scixplorer.org/abs/2026arXiv260314840X/"))
+
+1. *"Search for Gamma-Ray Spectral Lines from Dark Matter Annihilation with the H.E.S.S. Inner Galaxy Survey"*  
+   H.E.S.S. Collaboration  
+   2026, Physical Review Letters, **137**, 091002,  
+   ([DOI:10.1103/d8tj-55kc](https://doi.org/10.1103/d8tj-55kc "https://doi.org/10.1103/d8tj-55kc"),
+    [arXiv:2608.07234](https://arxiv.org/abs/2608.07234 "https://arxiv.org/abs/2608.07234"), 
+    [ADS record](https://scixplorer.org/abs/2026PhRvL.137i1002A "https://scixplorer.org/abs/2026PhRvL.137i1002A/"))
+
+1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
+   H.E.S.S. Collaboration  
+   2026, Journal of High Energy Astrophysics, **53**, 100599,   
+   ([DOI:10.1016/j.jheap.2026.100599](https://doi.org/10.1016/j.jheap.2026.100599 "https://doi.org/10.1016/j.jheap.2026.100599"),
+    [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
+    [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
+
 1. *"Multi-Dimensional MHD simulations of young Core-Collapse Supernova Remnants"*  
   C.J.K. Larkin, J. Mackey, B. Reville, *et al.*,  
-  2026, Astronomy & Astrophysics, **accepted**,
+  2026, Astronomy & Astrophysics, **711**, A300,  
   ([DOI:10.1051/0004-6361/202557775](https://doi.org/10.1051/0004-6361/202557775 "https://doi.org/10.1051/0004-6361/202557775"),
   [arXiv:2605.04940](https://arxiv.org/abs/2605.04940 "https://arxiv.org/abs/2605.04940"), 
   [ADS record](https://scixplorer.org/abs/2026arXiv260504940L/ "https://scixplorer.org/abs/2026arXiv260504940L/"))
@@ -49,12 +86,6 @@ Refereed Publications
     [arXiv:2604.19897](https://arxiv.org/abs/2604.19897 "https://arxiv.org/abs/2604.19897"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv260419897B/ "https://scixplorer.org/abs/2026arXiv260419897B/"))
 
-1. *"Scrutinizing the 2020 multiwavelength outburst of PKS 0903-57 through observations with H.E.S.S․"*  
-   H.E.S.S. Collaboration  
-   2026, Journal of High Energy Astrophysics, **53**, 100599,   
-   ([DOI:10.1016/j.jheap.2026.100599](https://doi.org/10.1016/j.jheap.2026.100599 "https://doi.org/10.1016/j.jheap.2026.100599"),
-    [arXiv:2603.12855](https://arxiv.org/abs/2603.12855 "https://arxiv.org/abs/2603.12855"), 
-    [ADS record](https://scixplorer.org/abs/2026arXiv260312855A/ "https://scixplorer.org/abs/2026arXiv260312855A/"))
 
 1. *"EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?"*  
    C.J.K. Larkin, J. Mackey, H. Jin, et al.,  
