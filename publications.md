@@ -30,14 +30,14 @@ Refereed Publications
 1. *"XMM-Newton Resolves Parsec-scale X-ray Jets in the PeVatron Microquasar V4641 Sgr"*  
   N. Tsuji, C. Tresoldi, K. Mori, ..., J. Mackey, *et al.*,  
   2025, The Astrophysical Journal Letters, **accepted**,
-   ([DOI:](https://doi.org/ "https://doi.org/"),
+   ([DOI:](https://doi.org/ "https://doi.org/"),  
     [arXiv:2610.02966](https://arxiv.org/abs/2610.02966 "https://arxiv.org/abs/2610.02966"), 
     [ADS record](https://scixplorer.org/abs/2026arXiv261002966T/ "https://scixplorer.org/abs/202TarXiv261002966T/"))
 
 
 1. *"Impact of Cosmic Ray Acceleration on the Early Evolution of Bow Shocks around Massive Runaway Stars"*  
   K. Watanabe, S. Walch, T.-E. Rathjen, J. Mackey *et al.*,  
-  2025, Astronomy & Astrophysics, **accepted**,
+  2025, Astronomy & Astrophysics, **accepted**,  
    ([DOI:](https://doi.org/ "https://doi.org/"),
     [arXiv:2510.11988](https://arxiv.org/abs/2510.11988 "https://arxiv.org/abs/2510.11988"), 
     [ADS record](https://scixplorer.org/abs/2025arXiv251011988W/ "https://scixplorer.org/abs/2025arXiv251011988W/"))
