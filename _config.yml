@@ -6,15 +6,18 @@
 #remote_theme: pages-themes/primer@v0.6.0
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-sitemap
+  - jekyll-google_search_console_verification_file
 
 title: Jonathan Mackey
 email: jmackey1@uni-koeln.de
 description: Astrophysics, Computation, Massive Stars, High-Energy Astrophysics, Unvirsity of Cologne
 baseurl: ""
+url: "https://jmackey-astro.github.io/" # the base hostname & protocol for your site
 #url: "https://jmackey-astro.github.io/"
 github_username: jmackey-astro
 
-url: "https://jmackey-astro.github.io/" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+google_search_console:
+  verification_file_code: 24e820f865b31f1c
+

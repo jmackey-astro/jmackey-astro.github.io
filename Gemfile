@@ -34,3 +34,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem 'jekyll-sitemap'
 
+
+gem "jekyll-google_search_console_verification_file", "~> 1.2", group: :jekyll_plugins
