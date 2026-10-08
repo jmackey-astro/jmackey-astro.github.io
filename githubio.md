@@ -7,5 +7,7 @@ Writing pages with github.io
 
 + Test changes locally using Jekyll with Ruby: follow this [quickstart guide](https://jekyllrb.com/docs/)
 
++ Get Jekyll installed on new OS X versions, [jekyll guide](https://jekyllrb.com/docs/installation/macos/)
+
 
 

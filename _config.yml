@@ -10,7 +10,11 @@ plugins:
 
 title: Jonathan Mackey
 email: jmackey1@uni-koeln.de
-description: Computational astrophysics, massive stars, high-energy astrophysics
+description: Astrophysics, Computation, Massive Stars, High-Energy
 baseurl: ""
 #url: "https://jmackey-astro.github.io/"
 github_username: jmackey-astro
+
+url: "https://jmackey-astro.github.io/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
