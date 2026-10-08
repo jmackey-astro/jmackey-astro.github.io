@@ -9,5 +9,7 @@ Writing pages with github.io
 
 + Get Jekyll installed on new OS X versions, [jekyll guide](https://jekyllrb.com/docs/installation/macos/)
 
++ install sitemap generator for search engines: [github jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
+
 
 
