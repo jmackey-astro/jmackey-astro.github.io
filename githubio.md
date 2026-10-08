@@ -11,5 +11,7 @@ Writing pages with github.io
 
 + install sitemap generator for search engines: [github jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
 
++ check if your page is found on google with [google search console](https://search.google.com/search-console)
+
 
 
