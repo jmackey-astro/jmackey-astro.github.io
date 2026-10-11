@@ -13,5 +13,7 @@ Writing pages with github.io
 
 + check if your page is found on google with [google search console](https://search.google.com/search-console)
 
++ some useful instructions on this blog [Filip Mikina](https://filipmikina.com/blog/github-pages-indexing)
+
 
 
